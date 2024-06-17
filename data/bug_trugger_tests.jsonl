@@ -1,0 +1,836 @@
+{"project": "Chart_10_fixed", "data": ["org.jfree.chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests::testGenerateURLFragment"]}
+{"project": "Chart_11_fixed", "data": ["org.jfree.chart.util.junit.ShapeUtilitiesTests::testEqualGeneralPaths"]}
+{"project": "Chart_12_fixed", "data": ["org.jfree.chart.plot.junit.MultiplePiePlotTests::testConstructor"]}
+{"project": "Chart_13_fixed", "data": ["org.jfree.chart.block.junit.BorderArrangementTests::testSizingWithWidthConstraint"]}
+{"project": "Chart_14_fixed", "data": ["org.jfree.chart.plot.junit.CategoryPlotTests::testRemoveRangeMarker", "org.jfree.chart.plot.junit.CategoryPlotTests::testRemoveDomainMarker", "org.jfree.chart.plot.junit.XYPlotTests::testRemoveRangeMarker", "org.jfree.chart.plot.junit.XYPlotTests::testRemoveDomainMarker"]}
+{"project": "Chart_15_fixed", "data": ["org.jfree.chart.plot.junit.PiePlot3DTests::testDrawWithNullDataset"]}
+{"project": "Chart_16_fixed", "data": ["org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetCategoryIndex", "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testSetCategoryKeys", "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetSeriesIndex", "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetRowCount", "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetRowIndex", "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetColumnCount", "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetColumnIndex", "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testCloning2"]}
+{"project": "Chart_17_fixed", "data": ["org.jfree.data.time.junit.TimeSeriesTests::testBug1832432"]}
+{"project": "Chart_18_fixed", "data": ["org.jfree.data.category.junit.DefaultCategoryDatasetTests::testBug1835955", "org.jfree.data.junit.DefaultKeyedValues2DTests::testRemoveColumnByKey", "org.jfree.data.junit.DefaultKeyedValuesTests::testRemoveValue", "org.jfree.data.junit.DefaultKeyedValuesTests::testGetIndex2"]}
+{"project": "Chart_19_fixed", "data": ["org.jfree.chart.plot.junit.CategoryPlotTests::testGetRangeAxisIndex", "org.jfree.chart.plot.junit.CategoryPlotTests::testGetDomainAxisIndex"]}
+{"project": "Chart_1_fixed", "data": ["org.jfree.chart.renderer.category.junit.AbstractCategoryItemRendererTests::test2947660"]}
+{"project": "Chart_20_fixed", "data": ["org.jfree.chart.plot.junit.ValueMarkerTests::test1808376"]}
+{"project": "Chart_21_fixed", "data": ["org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::testGetRangeBounds"]}
+{"project": "Chart_22_fixed", "data": ["org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByKey", "org.jfree.data.junit.KeyedObjects2DTests::testRemoveValue", "org.jfree.data.junit.KeyedObjects2DTests::testGetValueByKey", "org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByIndex", "org.jfree.data.junit.KeyedObjects2DTests::testSetObject", "org.jfree.data.junit.KeyedObjects2DTests::testRemoveRowByKey"]}
+{"project": "Chart_23_fixed", "data": ["org.jfree.chart.renderer.category.junit.MinMaxCategoryRendererTests::testEquals"]}
+{"project": "Chart_24_fixed", "data": ["org.jfree.chart.renderer.junit.GrayPaintScaleTests::testGetPaint"]}
+{"project": "Chart_25_fixed", "data": ["org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests::testDrawWithNullMeanVertical", "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests::testDrawWithNullDeviationVertical", "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests::testDrawWithNullMeanHorizontal", "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests::testDrawWithNullDeviationHorizontal"]}
+{"project": "Chart_26_fixed", "data": ["org.jfree.chart.junit.AreaChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.BarChart3DTests::testDrawWithNullInfo", "org.jfree.chart.junit.BarChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.GanttChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.GanttChartTests::testDrawWithNullInfo2", "org.jfree.chart.junit.LineChart3DTests::testDrawWithNullInfo", "org.jfree.chart.junit.LineChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.StackedAreaChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.StackedBarChart3DTests::testDrawWithNullInfo", "org.jfree.chart.junit.StackedBarChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.WaterfallChartTests::testDrawWithNullInfo", "org.jfree.chart.plot.junit.CategoryPlotTests::test1654215", "org.jfree.chart.plot.junit.CategoryPlotTests::testSerialization3", "org.jfree.chart.plot.junit.CategoryPlotTests::testSerialization4", "org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests::testDrawWithNullInfo", "org.jfree.chart.renderer.category.junit.GroupedStackedBarRendererTests::testDrawWithNullInfo", "org.jfree.chart.renderer.category.junit.IntervalBarRendererTests::testDrawWithNullInfo", "org.jfree.chart.renderer.category.junit.LayeredBarRendererTests::testDrawWithNullInfo", "org.jfree.chart.renderer.category.junit.LevelRendererTests::testDrawWithNullInfo", "org.jfree.chart.renderer.category.junit.MinMaxCategoryRendererTests::testDrawWithNullInfo", "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests::testDrawWithNullInfo", "org.jfree.chart.renderer.category.junit.StatisticalLineAndShapeRendererTests::testDrawWithNullInfo"]}
+{"project": "Chart_2_fixed", "data": ["org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_2", "org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_3"]}
+{"project": "Chart_3_fixed", "data": ["org.jfree.data.time.junit.TimeSeriesTests::testCreateCopy3"]}
+{"project": "Chart_4_fixed", "data": ["org.jfree.chart.axis.junit.LogAxisTests::testXYAutoRange1", "org.jfree.chart.axis.junit.LogAxisTests::testXYAutoRange2", "org.jfree.chart.axis.junit.NumberAxisTests::testXYAutoRange1", "org.jfree.chart.axis.junit.NumberAxisTests::testXYAutoRange2", "org.jfree.chart.axis.junit.ValueAxisTests::testAxisMargins", "org.jfree.chart.junit.JFreeChartTests::testSerialization4", "org.jfree.chart.junit.ScatterPlotTests::testDrawWithNullInfo", "org.jfree.chart.junit.ScatterPlotTests::testSetSeriesToolTipGenerator", "org.jfree.chart.junit.ScatterPlotTests::testReplaceDataset", "org.jfree.chart.junit.TimeSeriesChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.TimeSeriesChartTests::testSetSeriesToolTipGenerator", "org.jfree.chart.junit.TimeSeriesChartTests::testReplaceDataset", "org.jfree.chart.junit.XYAreaChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.XYAreaChartTests::testSetSeriesToolTipGenerator", "org.jfree.chart.junit.XYAreaChartTests::testReplaceDataset", "org.jfree.chart.junit.XYStepAreaChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.XYStepAreaChartTests::testSetSeriesToolTipGenerator", "org.jfree.chart.junit.XYStepAreaChartTests::testReplaceDataset", "org.jfree.chart.junit.XYStepChartTests::testDrawWithNullInfo", "org.jfree.chart.junit.XYStepChartTests::testSetSeriesToolTipGenerator", "org.jfree.chart.junit.XYStepChartTests::testReplaceDataset", "org.jfree.chart.plot.junit.XYPlotTests::testDrawRangeGridlines"]}
+{"project": "Chart_5_fixed", "data": ["org.jfree.data.xy.junit.XYSeriesTests::testBug1955483"]}
+{"project": "Chart_6_fixed", "data": ["org.jfree.chart.util.junit.ShapeListTests::testSerialization", "org.jfree.chart.util.junit.ShapeListTests::testEquals"]}
+{"project": "Chart_7_fixed", "data": ["org.jfree.data.time.junit.TimePeriodValuesTests::testGetMaxMiddleIndex"]}
+{"project": "Chart_8_fixed", "data": ["org.jfree.data.time.junit.WeekTests::testConstructor"]}
+{"project": "Chart_9_fixed", "data": ["org.jfree.data.time.junit.TimeSeriesTests::testBug1864222"]}
+{"project": "Cli_10_fixed", "data": ["org.apache.commons.cli.ParseRequiredTest::testReuseOptionsTwice"]}
+{"project": "Cli_11_fixed", "data": ["org.apache.commons.cli.HelpFormatterTest::testPrintOptionWithEmptyArgNameUsage"]}
+{"project": "Cli_12_fixed", "data": ["org.apache.commons.cli.GnuParserTest::testShortWithEqual", "org.apache.commons.cli.GnuParserTest::testLongWithEqualSingleDash", "org.apache.commons.cli.GnuParserTest::testLongWithEqual"]}
+{"project": "Cli_13_fixed", "data": ["org.apache.commons.cli2.bug.BugLoopingOptionLookAlikeTest::testLoopingOptionLookAlike2"]}
+{"project": "Cli_14_fixed", "data": ["org.apache.commons.cli2.bug.BugCLI144Test::testFileValidator"]}
+{"project": "Cli_15_fixed", "data": ["org.apache.commons.cli2.bug.BugCLI158Test::testSingleOptionSingleArgument", "org.apache.commons.cli2.bug.BugCLI158Test::testSingleOptionMaximumNumberOfArgument"]}
+{"project": "Cli_16_fixed", "data": ["org.apache.commons.cli2.bug.BugCLI123Test::testMultipleChildOptions", "org.apache.commons.cli2.bug.BugCLI123Test::testParentOptionAndChildOption", "org.apache.commons.cli2.bug.BugCLI123Test::testSingleChildOption", "org.apache.commons.cli2.commandline.DefaultingCommandLineTest::testGetOptions_Order", "org.apache.commons.cli2.commandline.PreferencesCommandLineTest::testGetOptions_Order", "org.apache.commons.cli2.commandline.PropertiesCommandLineTest::testGetOptions_Order", "org.apache.commons.cli2.commandline.WriteableCommandLineImplTest::testGetOptions_Order"]}
+{"project": "Cli_17_fixed", "data": ["org.apache.commons.cli.PosixParserTest::testStopBursting"]}
+{"project": "Cli_18_fixed", "data": ["org.apache.commons.cli.PosixParserTest::testStop2"]}
+{"project": "Cli_19_fixed", "data": ["org.apache.commons.cli.PosixParserTest::testUnrecognizedOption2"]}
+{"project": "Cli_1_fixed", "data": []}
+{"project": "Cli_20_fixed", "data": ["org.apache.commons.cli.PosixParserTest::testStop3"]}
+{"project": "Cli_21_fixed", "data": ["org.apache.commons.cli2.bug.BugCLI150Test::testNegativeNumber"]}
+{"project": "Cli_22_fixed", "data": ["org.apache.commons.cli.ApplicationTest::testGroovy", "org.apache.commons.cli.PosixParserTest::testStopAtExpectedArg"]}
+{"project": "Cli_23_fixed", "data": ["org.apache.commons.cli.bug.BugCLI162Test::testInfiniteLoop", "org.apache.commons.cli.bug.BugCLI162Test::testPrintHelpLongLines"]}
+{"project": "Cli_24_fixed", "data": ["org.apache.commons.cli.bug.BugCLI162Test::testLongLineChunkingIndentIgnored"]}
+{"project": "Cli_25_fixed", "data": ["org.apache.commons.cli.bug.BugCLI162Test::testLongLineChunkingIndentIgnored"]}
+{"project": "Cli_26_fixed", "data": ["org.apache.commons.cli.OptionBuilderTest::testBuilderIsResettedAlways"]}
+{"project": "Cli_27_fixed", "data": ["org.apache.commons.cli.BasicParserTest::testOptionGroupLong", "org.apache.commons.cli.GnuParserTest::testOptionGroupLong", "org.apache.commons.cli.PosixParserTest::testOptionGroupLong"]}
+{"project": "Cli_28_fixed", "data": ["org.apache.commons.cli.ValueTest::testPropertyOptionFlags"]}
+{"project": "Cli_29_fixed", "data": ["org.apache.commons.cli.UtilTest::testStripLeadingAndTrailingQuotes"]}
+{"project": "Cli_2_fixed", "data": ["org.apache.commons.cli.bug.BugCLI51Test::test"]}
+{"project": "Cli_30_fixed", "data": ["org.apache.commons.cli.BasicParserTest::testPropertyOptionGroup", "org.apache.commons.cli.BasicParserTest::testPropertyOptionUnexpected", "org.apache.commons.cli.DefaultParserTest::testPropertyOptionGroup", "org.apache.commons.cli.DefaultParserTest::testPropertyOptionUnexpected", "org.apache.commons.cli.GnuParserTest::testPropertyOptionGroup", "org.apache.commons.cli.GnuParserTest::testPropertyOptionUnexpected", "org.apache.commons.cli.OptionGroupTest::testTwoOptionsFromGroupWithProperties", "org.apache.commons.cli.PosixParserTest::testPropertyOptionGroup", "org.apache.commons.cli.PosixParserTest::testPropertyOptionUnexpected"]}
+{"project": "Cli_31_fixed", "data": ["org.apache.commons.cli.HelpFormatterTest::testDefaultArgName"]}
+{"project": "Cli_32_fixed", "data": ["org.apache.commons.cli.HelpFormatterTest::testRenderWrappedTextWordCut", "org.apache.commons.cli.HelpFormatterTest::testFindWrapPos"]}
+{"project": "Cli_33_fixed", "data": ["org.apache.commons.cli.HelpFormatterTest::testIndentedHeaderAndFooter"]}
+{"project": "Cli_34_fixed", "data": ["org.apache.commons.cli.CommandLineTest::testGetParsedOptionValue", "org.apache.commons.cli.OptionBuilderTest::testTwoCompleteOptions"]}
+{"project": "Cli_35_fixed", "data": ["org.apache.commons.cli.bug.BugCLI252Test::testExactOptionNameMatch"]}
+{"project": "Cli_36_fixed", "data": ["org.apache.commons.cli.bug.BugCLI266Test::testOptionComparatorInsertedOrder"]}
+{"project": "Cli_37_fixed", "data": ["org.apache.commons.cli.bug.BugCLI265Test::shouldParseShortOptionWithoutValue"]}
+{"project": "Cli_38_fixed", "data": ["org.apache.commons.cli.bug.BugCLI265Test::shouldParseConcatenatedShortOptions"]}
+{"project": "Cli_39_fixed", "data": ["org.apache.commons.cli.PatternOptionBuilderTest::testExistingFilePattern", "org.apache.commons.cli.PatternOptionBuilderTest::testExistingFilePatternFileNotExist"]}
+{"project": "Cli_3_fixed", "data": ["org.apache.commons.cli.PatternOptionBuilderTest::testSimplePattern"]}
+{"project": "Cli_40_fixed", "data": ["org.apache.commons.cli.TypeHandlerTest::testCreateValueInteger_failure"]}
+{"project": "Cli_4_fixed", "data": ["org.apache.commons.cli.OptionsTest::testMissingOptionsException", "org.apache.commons.cli.OptionsTest::testMissingOptionException"]}
+{"project": "Cli_5_fixed", "data": ["org.apache.commons.cli.UtilTest::testStripLeadingHyphens", "org.apache.commons.cli.bug.BugCLI133Test::testOrder"]}
+{"project": "Cli_7_fixed", "data": ["org.apache.commons.cli2.bug.Bug27575Test::testRequiredOptions"]}
+{"project": "Cli_8_fixed", "data": ["org.apache.commons.cli.HelpFormatterTest::testPrintWrapped"]}
+{"project": "Cli_9_fixed", "data": ["org.apache.commons.cli.OptionsTest::testMissingOptionsException", "org.apache.commons.cli.ParseRequiredTest::testMissingRequiredOptions"]}
+{"project": "Closure_100_fixed", "data": ["com.google.javascript.jscomp.CheckGlobalThisTest::testStaticFunction6", "com.google.javascript.jscomp.CheckGlobalThisTest::testStaticFunction7", "com.google.javascript.jscomp.CheckGlobalThisTest::testStaticFunction8", "com.google.javascript.jscomp.CheckGlobalThisTest::testGlobalThis7", "com.google.javascript.jscomp.CheckGlobalThisTest::testStaticMethod2", "com.google.javascript.jscomp.CheckGlobalThisTest::testStaticMethod3", "com.google.javascript.jscomp.CheckGlobalThisTest::testInnerFunction1", "com.google.javascript.jscomp.CheckGlobalThisTest::testInnerFunction2", "com.google.javascript.jscomp.CheckGlobalThisTest::testInnerFunction3"]}
+{"project": "Closure_101_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testProcessClosurePrimitives"]}
+{"project": "Closure_102_fixed", "data": ["com.google.javascript.jscomp.CompilerRunnerTest::testIssue115"]}
+{"project": "Closure_103_fixed", "data": ["com.google.javascript.jscomp.CheckUnreachableCodeTest::testInstanceOfThrowsException", "com.google.javascript.jscomp.ControlFlowAnalysisTest::testInstanceOf", "com.google.javascript.jscomp.DisambiguatePropertiesTest::testSupertypeReferenceOfSubtypeProperty"]}
+{"project": "Closure_104_fixed", "data": ["com.google.javascript.rhino.jstype.UnionTypeTest::testGreatestSubtypeUnionTypes5"]}
+{"project": "Closure_105_fixed", "data": ["com.google.javascript.jscomp.FoldConstantsTest::testStringJoinAdd"]}
+{"project": "Closure_106_fixed", "data": ["com.google.javascript.jscomp.CheckSideEffectsTest::testJSDocComments", "com.google.javascript.jscomp.CollapsePropertiesTest::testTwinReferenceCancelsChildCollapsing", "com.google.javascript.jscomp.CollapsePropertiesTest::testCrashInNestedAssign", "com.google.javascript.jscomp.CollapsePropertiesTest::testCrashInCommaOperator"]}
+{"project": "Closure_107_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testGetMsgWiringNoWarnings"]}
+{"project": "Closure_108_fixed", "data": ["com.google.javascript.jscomp.ScopedAliasesTest::testIssue1144"]}
+{"project": "Closure_109_fixed", "data": ["com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testStructuralConstructor2", "com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testStructuralConstructor3"]}
+{"project": "Closure_10_fixed", "data": ["com.google.javascript.jscomp.PeepholeFoldConstantsTest::testIssue821"]}
+{"project": "Closure_110_fixed", "data": ["com.google.javascript.jscomp.ScopedAliasesTest::testHoistedFunctionDeclaration", "com.google.javascript.jscomp.ScopedAliasesTest::testFunctionDeclaration"]}
+{"project": "Closure_111_fixed", "data": ["com.google.javascript.jscomp.ClosureReverseAbstractInterpreterTest::testGoogIsArray2"]}
+{"project": "Closure_112_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue1058", "com.google.javascript.jscomp.TypeCheckTest::testTemplatized11"]}
+{"project": "Closure_113_fixed", "data": ["com.google.javascript.jscomp.VarCheckTest::testNoUndeclaredVarWhenUsingClosurePass"]}
+{"project": "Closure_114_fixed", "data": ["com.google.javascript.jscomp.NameAnalyzerTest::testAssignWithCall"]}
+{"project": "Closure_115_fixed", "data": ["com.google.javascript.jscomp.InlineFunctionsTest::testBug4944818", "com.google.javascript.jscomp.InlineFunctionsTest::testDoubleInlining1", "com.google.javascript.jscomp.InlineFunctionsTest::testNoInlineIfParametersModified8", "com.google.javascript.jscomp.InlineFunctionsTest::testNoInlineIfParametersModified9", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions6"]}
+{"project": "Closure_116_fixed", "data": ["com.google.javascript.jscomp.FunctionInjectorTest::testIssue1101a", "com.google.javascript.jscomp.FunctionInjectorTest::testIssue1101b", "com.google.javascript.jscomp.InlineFunctionsTest::testBug4944818", "com.google.javascript.jscomp.InlineFunctionsTest::testDoubleInlining2", "com.google.javascript.jscomp.InlineFunctionsTest::testIssue1101", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineIfParametersModified8", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineIfParametersModified9", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions6"]}
+{"project": "Closure_117_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue1047"]}
+{"project": "Closure_118_fixed", "data": ["com.google.javascript.jscomp.DisambiguatePropertiesTest::testOneType4", "com.google.javascript.jscomp.DisambiguatePropertiesTest::testTwoTypes4"]}
+{"project": "Closure_119_fixed", "data": ["com.google.javascript.jscomp.CheckGlobalNamesTest::testGlobalCatch"]}
+{"project": "Closure_11_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testGetprop4", "com.google.javascript.jscomp.TypeCheckTest::testIssue810"]}
+{"project": "Closure_120_fixed", "data": ["com.google.javascript.jscomp.InlineVariablesTest::testExternalIssue1053"]}
+{"project": "Closure_121_fixed", "data": ["com.google.javascript.jscomp.InlineVariablesTest::testExternalIssue1053"]}
+{"project": "Closure_122_fixed", "data": ["com.google.javascript.jscomp.parsing.ParserTest::testSuspiciousBlockCommentWarning3", "com.google.javascript.jscomp.parsing.ParserTest::testSuspiciousBlockCommentWarning4", "com.google.javascript.jscomp.parsing.ParserTest::testSuspiciousBlockCommentWarning5"]}
+{"project": "Closure_123_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testPrintInOperatorInForLoop"]}
+{"project": "Closure_124_fixed", "data": ["com.google.javascript.jscomp.ExploitAssignsTest::testIssue1017"]}
+{"project": "Closure_125_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue1002"]}
+{"project": "Closure_126_fixed", "data": ["com.google.javascript.jscomp.MinimizeExitPointsTest::testDontRemoveBreakInTryFinally", "com.google.javascript.jscomp.MinimizeExitPointsTest::testFunctionReturnOptimization"]}
+{"project": "Closure_127_fixed", "data": ["com.google.javascript.jscomp.UnreachableCodeEliminationTest::testIssue4177428_return", "com.google.javascript.jscomp.UnreachableCodeEliminationTest::testDontRemoveBreakInTryFinally", "com.google.javascript.jscomp.UnreachableCodeEliminationTest::testIssue4177428_continue", "com.google.javascript.jscomp.UnreachableCodeEliminationTest::testDontRemoveBreakInTryFinallySwitch", "com.google.javascript.jscomp.UnreachableCodeEliminationTest::testIssue4177428a", "com.google.javascript.jscomp.UnreachableCodeEliminationTest::testIssue4177428c"]}
+{"project": "Closure_128_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testIssue942"]}
+{"project": "Closure_129_fixed", "data": ["com.google.javascript.jscomp.IntegrationTest::testIssue937"]}
+{"project": "Closure_12_fixed", "data": ["com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testIssue794b"]}
+{"project": "Closure_130_fixed", "data": ["com.google.javascript.jscomp.CollapsePropertiesTest::testIssue931"]}
+{"project": "Closure_131_fixed", "data": ["com.google.javascript.jscomp.ConvertToDottedPropertiesTest::testQuotedProps", "com.google.javascript.jscomp.ConvertToDottedPropertiesTest::testDoNotConvert"]}
+{"project": "Closure_132_fixed", "data": ["com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntaxTest::testIssue925"]}
+{"project": "Closure_133_fixed", "data": ["com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testTextExtents"]}
+{"project": "Closure_134_fixed", "data": ["com.google.javascript.jscomp.AmbiguatePropertiesTest::testImplementsAndExtends", "com.google.javascript.jscomp.TypeCheckTest::testIssue86"]}
+{"project": "Closure_135_fixed", "data": ["com.google.javascript.jscomp.DevirtualizePrototypeMethodsTest::testRewritePrototypeMethods2", "com.google.javascript.jscomp.TypeCheckTest::testGoodExtends9"]}
+{"project": "Closure_136_fixed", "data": ["com.google.javascript.jscomp.InlineGettersTest::testIssue2508576_1", "com.google.javascript.jscomp.InlineGettersTest::testIssue2508576_3", "com.google.javascript.jscomp.MethodCheckTest::testSeparateMethods", "com.google.javascript.jscomp.RenameVarsTest::testDollarSignSuperExport2"]}
+{"project": "Closure_137_fixed", "data": ["com.google.javascript.jscomp.MakeDeclaredNamesUniqueTest::testOnlyInversion3", "com.google.javascript.jscomp.MakeDeclaredNamesUniqueTest::testOnlyInversion4", "com.google.javascript.jscomp.MakeDeclaredNamesUniqueTest::testArguments", "com.google.javascript.jscomp.MakeDeclaredNamesUniqueTest::testMakeLocalNamesUniqueWithContext1", "com.google.javascript.jscomp.NormalizeTest::testRemoveDuplicateVarDeclarations2"]}
+{"project": "Closure_138_fixed", "data": ["com.google.javascript.jscomp.ClosureReverseAbstractInterpreterTest::testGoogIsArrayOnNull", "com.google.javascript.jscomp.ClosureReverseAbstractInterpreterTest::testGoogIsFunctionOnNull", "com.google.javascript.jscomp.ClosureReverseAbstractInterpreterTest::testGoogIsObjectOnNull", "com.google.javascript.jscomp.TypeCheckTest::testIssue124b", "com.google.javascript.jscomp.TypeCheckTest::testIssue124"]}
+{"project": "Closure_139_fixed", "data": ["com.google.javascript.jscomp.NormalizeTest::testNormalizeFunctionDeclarations", "com.google.javascript.jscomp.NormalizeTest::testRemoveDuplicateVarDeclarations3", "com.google.javascript.jscomp.NormalizeTest::testMoveFunctions2"]}
+{"project": "Closure_13_fixed", "data": ["com.google.javascript.jscomp.IntegrationTest::testIssue787"]}
+{"project": "Closure_140_fixed", "data": ["com.google.javascript.jscomp.CrossModuleCodeMotionTest::testEmptyModule"]}
+{"project": "Closure_141_fixed", "data": ["com.google.javascript.jscomp.ExpresssionDecomposerTest::testCanExposeExpression2", "com.google.javascript.jscomp.ExpresssionDecomposerTest::testCanExposeExpression7", "com.google.javascript.jscomp.InlineFunctionsTest::testDecomposeAnonymousInCall", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testCallFunctionFOrGViaHookWithSideEffects", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testCallFunctionForGorH", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testCallFunctionFOrG", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testCallFunctionFOrGViaHook", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testCallFunctionFOrGWithSideEffects"]}
+{"project": "Closure_142_fixed", "data": ["com.google.javascript.jscomp.CoalesceVariableNamesTest::testParameter4", "com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testParseLicenseWithAnnotation"]}
+{"project": "Closure_143_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testDefineFlag3", "com.google.javascript.jscomp.RemoveConstantExpressionsTest::testCall1", "com.google.javascript.jscomp.RemoveConstantExpressionsTest::testNew1"]}
+{"project": "Closure_144_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testTypeAnnotationsAssign", "com.google.javascript.jscomp.CodePrinterTest::testTypeAnnotationsMember", "com.google.javascript.jscomp.CodePrinterTest::testOptionalTypesAnnotation", "com.google.javascript.jscomp.CodePrinterTest::testTempConstructor", "com.google.javascript.jscomp.CodePrinterTest::testTypeAnnotationsDispatcher1", "com.google.javascript.jscomp.CodePrinterTest::testTypeAnnotationsDispatcher2", "com.google.javascript.jscomp.CodePrinterTest::testTypeAnnotationsImplements", "com.google.javascript.jscomp.CodePrinterTest::testTypeAnnotationsNamespace", "com.google.javascript.jscomp.CodePrinterTest::testTypeAnnotations", "com.google.javascript.jscomp.CodePrinterTest::testVariableArgumentsTypesAnnotation", "com.google.javascript.jscomp.CodePrinterTest::testEmitUnknownParamTypesAsAllType", "com.google.javascript.jscomp.CodePrinterTest::testTypeAnnotationsMemberSubclass", "com.google.javascript.jscomp.DevirtualizePrototypeMethodsTest::testRewritePrototypeMethods2", "com.google.javascript.jscomp.DisambiguatePropertiesTest::testStaticProperty", "com.google.javascript.jscomp.ExternExportsPassTest::testExportDontEmitPrototypePathPrefix", "com.google.javascript.jscomp.ExternExportsPassTest::testExportMultiple", "com.google.javascript.jscomp.ExternExportsPassTest::testExportSymbolWithConstructor", "com.google.javascript.jscomp.ExternExportsPassTest::testExportSymbolDefinedInVar", "com.google.javascript.jscomp.ExternExportsPassTest::testExportSymbol", "com.google.javascript.jscomp.ExternExportsPassTest::testExportMultiple2", "com.google.javascript.jscomp.ExternExportsPassTest::testExportMultiple3", "com.google.javascript.jscomp.ExternExportsPassTest::testExportProperty", "com.google.javascript.jscomp.LooseTypeCheckTest::testNestedFunctionInference1", "com.google.javascript.jscomp.LooseTypeCheckTest::testScoping10", "com.google.javascript.jscomp.LooseTypeCheckTest::testDuplicateOldTypeDef", "com.google.javascript.jscomp.LooseTypeCheckTest::testBadConstructorCall", "com.google.javascript.jscomp.LooseTypeCheckTest::testDontAddMethodsIfNoConstructor", "com.google.javascript.jscomp.LooseTypeCheckTest::testInterfaceInheritanceCheck11", "com.google.javascript.jscomp.LooseTypeCheckTest::testErrorMismatchingPropertyOnInterface5", "com.google.javascript.jscomp.LooseTypeCheckTest::testDuplicateTypeDef", "com.google.javascript.jscomp.LooseTypeCheckTest::testBug911118", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference12", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference13", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference15", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference16", "com.google.javascript.jscomp.LooseTypeCheckTest::testPrototypePropertyReference", "com.google.javascript.jscomp.LooseTypeCheckTest::testGoodExtends7", "com.google.javascript.jscomp.LooseTypeCheckTest::testTypeRedefinition", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference1", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference2", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference3", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference4", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference7", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference8", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionInference9", "com.google.javascript.jscomp.LooseTypeCheckTest::testInterfaceInheritanceCheck7", "com.google.javascript.jscomp.LooseTypeCheckTest::testDuplicateStaticMethodDecl1", "com.google.javascript.jscomp.LooseTypeCheckTest::testDuplicateStaticMethodDecl5", "com.google.javascript.jscomp.TypeCheckTest::testNestedFunctionInference1", "com.google.javascript.jscomp.TypeCheckTest::testScoping10", "com.google.javascript.jscomp.TypeCheckTest::testDuplicateOldTypeDef", "com.google.javascript.jscomp.TypeCheckTest::testInferredReturn1", "com.google.javascript.jscomp.TypeCheckTest::testInferredReturn2", "com.google.javascript.jscomp.TypeCheckTest::testInferredReturn3", "com.google.javascript.jscomp.TypeCheckTest::testInferredReturn4", "com.google.javascript.jscomp.TypeCheckTest::testInferredReturn6", "com.google.javascript.jscomp.TypeCheckTest::testBadConstructorCall", "com.google.javascript.jscomp.TypeCheckTest::testDontAddMethodsIfNoConstructor", "com.google.javascript.jscomp.TypeCheckTest::testInterfaceInheritanceCheck11", "com.google.javascript.jscomp.TypeCheckTest::testErrorMismatchingPropertyOnInterface5", "com.google.javascript.jscomp.TypeCheckTest::testDuplicateTypeDef", "com.google.javascript.jscomp.TypeCheckTest::testBug911118", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference12", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference13", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference15", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference16", "com.google.javascript.jscomp.TypeCheckTest::testPrototypePropertyReference", "com.google.javascript.jscomp.TypeCheckTest::testGoodExtends7", "com.google.javascript.jscomp.TypeCheckTest::testTypeRedefinition", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference1", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference2", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference3", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference4", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference7", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference8", "com.google.javascript.jscomp.TypeCheckTest::testFunctionInference9", "com.google.javascript.jscomp.TypeCheckTest::testInterfaceInheritanceCheck7", "com.google.javascript.jscomp.TypeCheckTest::testDuplicateStaticMethodDecl1", "com.google.javascript.jscomp.TypeCheckTest::testDuplicateStaticMethodDecl5", "com.google.javascript.jscomp.TypedScopeCreatorTest::testConstructorNode", "com.google.javascript.jscomp.TypedScopeCreatorTest::testPropertiesOnInterface", "com.google.javascript.jscomp.TypedScopeCreatorTest::testMethodBeforeFunction", "com.google.javascript.jscomp.TypedScopeCreatorTest::testConstructorProperty", "com.google.javascript.jscomp.TypedScopeCreatorTest::testReturnTypeInference1"]}
+{"project": "Closure_145_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testFunctionSafariCompatiblity", "com.google.javascript.jscomp.CodePrinterTest::testDoLoopIECompatiblity"]}
+{"project": "Closure_146_fixed", "data": ["com.google.javascript.jscomp.SemanticReverseAbstractInterpreterTest::testEqCondition4"]}
+{"project": "Closure_147_fixed", "data": ["com.google.javascript.jscomp.CheckGlobalThisTest::testIssue182a", "com.google.javascript.jscomp.CheckGlobalThisTest::testIssue182b", "com.google.javascript.jscomp.RuntimeTypeCheckTest::testValueWithInnerFn"]}
+{"project": "Closure_148_fixed", "data": ["com.google.javascript.jscomp.PeepholeFoldConstantsTest::testFoldTypeof", "com.google.javascript.jscomp.SourceMapTest::testGoldenOutput0", "com.google.javascript.jscomp.SourceMapTest::testGoldenOutput1", "com.google.javascript.jscomp.SourceMapTest::testGoldenOutput2", "com.google.javascript.jscomp.SourceMapTest::testGoldenOutput3", "com.google.javascript.jscomp.SourceMapTest::testGoldenOutput4"]}
+{"project": "Closure_149_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testCharSetExpansion"]}
+{"project": "Closure_14_fixed", "data": ["com.google.javascript.jscomp.CheckMissingReturnTest::testIssue779", "com.google.javascript.jscomp.ControlFlowAnalysisTest::testDeepNestedFinally", "com.google.javascript.jscomp.ControlFlowAnalysisTest::testDeepNestedBreakwithFinally"]}
+{"project": "Closure_150_fixed", "data": ["com.google.javascript.jscomp.TypedScopeCreatorTest::testNamespacedFunctionStubLocal", "com.google.javascript.jscomp.TypedScopeCreatorTest::testCollectedFunctionStubLocal"]}
+{"project": "Closure_151_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testVersionFlag"]}
+{"project": "Closure_152_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testBackwardsTypedefUse1", "com.google.javascript.jscomp.TypeCheckTest::testBackwardsTypedefUse2", "com.google.javascript.jscomp.TypeCheckTest::testBackwardsTypedefUse3"]}
+{"project": "Closure_153_fixed", "data": ["com.google.javascript.jscomp.NormalizeTest::testDuplicateVarInExterns", "com.google.javascript.jscomp.NormalizeTest::testMakeLocalNamesUnique"]}
+{"project": "Closure_154_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testInterfaceInheritanceCheck12"]}
+{"project": "Closure_155_fixed", "data": ["com.google.javascript.jscomp.InlineVariablesTest::testArgumentsModifiedInInnerFunction", "com.google.javascript.jscomp.InlineVariablesTest::testArgumentsModifiedInOuterFunction", "com.google.javascript.jscomp.InlineVariablesTest::testIssue378ModifiedArguments1", "com.google.javascript.jscomp.InlineVariablesTest::testIssue378ModifiedArguments2", "com.google.javascript.jscomp.InlineVariablesTest::testIssue378EscapedArguments1", "com.google.javascript.jscomp.InlineVariablesTest::testIssue378EscapedArguments2", "com.google.javascript.jscomp.InlineVariablesTest::testIssue378EscapedArguments4"]}
+{"project": "Closure_156_fixed", "data": ["com.google.javascript.jscomp.CollapsePropertiesTest::testAliasedTopLevelEnum", "com.google.javascript.jscomp.CollapsePropertiesTest::testIssue389"]}
+{"project": "Closure_157_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testObjectLit2", "com.google.javascript.jscomp.CodePrinterTest::testObjectLit3", "com.google.javascript.jscomp.CodePrinterTest::testGetter", "com.google.javascript.jscomp.CodePrinterTest::testSetter", "com.google.javascript.jscomp.FunctionNamesTest::testFunctionsNamesAndIds", "com.google.javascript.jscomp.RenamePropertiesTest::testPrototypePropertiesAsObjLitKeys2", "com.google.javascript.jscomp.RenamePropertiesTest::testPrototypePropertiesAsObjLitKeys3", "com.google.javascript.jscomp.SimpleDefinitionFinderTest::testDefineNumber", "com.google.javascript.jscomp.parsing.IRFactoryTest::testObjectLiteral6", "com.google.javascript.jscomp.parsing.IRFactoryTest::testObjectLiteral7", "com.google.javascript.jscomp.parsing.IRFactoryTest::testObjectLiteral8", "com.google.javascript.jscomp.parsing.ParserTest::testObjectLiteralDoc1"]}
+{"project": "Closure_158_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testWarningGuardOrdering2", "com.google.javascript.jscomp.CommandLineRunnerTest::testWarningGuardOrdering4"]}
+{"project": "Closure_159_fixed", "data": ["com.google.javascript.jscomp.InlineFunctionsTest::testIssue423"]}
+{"project": "Closure_15_fixed", "data": ["com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testSimpleForIn"]}
+{"project": "Closure_160_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testCheckSymbolsOverrideForQuiet"]}
+{"project": "Closure_161_fixed", "data": ["com.google.javascript.jscomp.PeepholeFoldConstantsTest::testIssue522"]}
+{"project": "Closure_162_fixed", "data": ["com.google.javascript.jscomp.ScopedAliasesTest::testForwardJsDoc"]}
+{"project": "Closure_163_fixed", "data": ["com.google.javascript.jscomp.CrossModuleMethodMotionTest::testIssue600b", "com.google.javascript.jscomp.CrossModuleMethodMotionTest::testIssue600e", "com.google.javascript.jscomp.CrossModuleMethodMotionTest::testIssue600"]}
+{"project": "Closure_164_fixed", "data": ["com.google.javascript.jscomp.LooseTypeCheckTest::testMethodInference7", "com.google.javascript.jscomp.TypeCheckTest::testMethodInference7", "com.google.javascript.rhino.jstype.FunctionTypeTest::testSupAndInfOfReturnTypesWithNumOfParams"]}
+{"project": "Closure_165_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue725"]}
+{"project": "Closure_166_fixed", "data": ["com.google.javascript.jscomp.TypeInferenceTest::testRecordInference", "com.google.javascript.jscomp.TypeInferenceTest::testIssue785"]}
+{"project": "Closure_167_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue783", "com.google.javascript.jscomp.TypeCheckTest::testMissingProperty20", "com.google.javascript.rhino.jstype.JSTypeTest::testRestrictedTypeGivenToBoolean"]}
+{"project": "Closure_168_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue726"]}
+{"project": "Closure_169_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue791", "com.google.javascript.rhino.jstype.RecordTypeTest::testSubtypeWithUnknowns2"]}
+{"project": "Closure_16_fixed", "data": ["com.google.javascript.jscomp.IntegrationTest::testIssue772", "com.google.javascript.jscomp.ScopedAliasesTest::testIssue772"]}
+{"project": "Closure_170_fixed", "data": ["com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testVarAssinInsideHookIssue965"]}
+{"project": "Closure_171_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue1023", "com.google.javascript.jscomp.TypedScopeCreatorTest::testMethodBeforeFunction2", "com.google.javascript.jscomp.TypedScopeCreatorTest::testPropertiesOnInterface2"]}
+{"project": "Closure_172_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue1024"]}
+{"project": "Closure_173_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testPrint", "com.google.javascript.jscomp.CodePrinterTest::testIssue1062", "com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntaxTest::testAssocitivity"]}
+{"project": "Closure_174_fixed", "data": ["com.google.javascript.jscomp.ScopedAliasesTest::testIssue1103a", "com.google.javascript.jscomp.ScopedAliasesTest::testIssue1103b", "com.google.javascript.jscomp.ScopedAliasesTest::testIssue1103c"]}
+{"project": "Closure_175_fixed", "data": ["com.google.javascript.jscomp.FunctionInjectorTest::testIssue1101a", "com.google.javascript.jscomp.FunctionInjectorTest::testIssue1101b", "com.google.javascript.jscomp.InlineFunctionsTest::testCostBasedInlining10", "com.google.javascript.jscomp.InlineFunctionsTest::testIssue1101", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineMutableArgsReferencedOnce"]}
+{"project": "Closure_176_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue1056"]}
+{"project": "Closure_17_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue688"]}
+{"project": "Closure_18_fixed", "data": ["com.google.javascript.jscomp.IntegrationTest::testDependencySorting"]}
+{"project": "Closure_19_fixed", "data": ["com.google.javascript.jscomp.TypeInferenceTest::testNoThisInference"]}
+{"project": "Closure_1_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testSimpleModeLeavesUnusedParams", "com.google.javascript.jscomp.CommandLineRunnerTest::testForwardDeclareDroppedTypes", "com.google.javascript.jscomp.CommandLineRunnerTest::testDebugFlag1", "com.google.javascript.jscomp.IntegrationTest::testIssue787", "com.google.javascript.jscomp.RemoveUnusedVarsTest::testRemoveGlobal1", "com.google.javascript.jscomp.RemoveUnusedVarsTest::testRemoveGlobal2", "com.google.javascript.jscomp.RemoveUnusedVarsTest::testRemoveGlobal3", "com.google.javascript.jscomp.RemoveUnusedVarsTest::testIssue168b"]}
+{"project": "Closure_20_fixed", "data": ["com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntaxTest::testSimpleFunctionCall"]}
+{"project": "Closure_21_fixed", "data": ["com.google.javascript.jscomp.CheckSideEffectsTest::testUselessCode"]}
+{"project": "Closure_22_fixed", "data": ["com.google.javascript.jscomp.CheckSideEffectsTest::testUselessCode"]}
+{"project": "Closure_23_fixed", "data": ["com.google.javascript.jscomp.PeepholeFoldConstantsTest::testFoldGetElem"]}
+{"project": "Closure_24_fixed", "data": ["com.google.javascript.jscomp.ScopedAliasesTest::testNonAliasLocal"]}
+{"project": "Closure_25_fixed", "data": ["com.google.javascript.jscomp.TypeInferenceTest::testBackwardsInferenceNew"]}
+{"project": "Closure_26_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testTransformAMDAndProcessCJS", "com.google.javascript.jscomp.CommandLineRunnerTest::testProcessCJS", "com.google.javascript.jscomp.ProcessCommonJSModulesTest::testExports", "com.google.javascript.jscomp.ProcessCommonJSModulesTest::testModuleName", "com.google.javascript.jscomp.ProcessCommonJSModulesTest::testDash", "com.google.javascript.jscomp.ProcessCommonJSModulesTest::testVarRenaming", "com.google.javascript.jscomp.ProcessCommonJSModulesTest::testWithoutExports"]}
+{"project": "Closure_27_fixed", "data": ["com.google.javascript.rhino.IRTest::testIssue727_1", "com.google.javascript.rhino.IRTest::testIssue727_2", "com.google.javascript.rhino.IRTest::testIssue727_3"]}
+{"project": "Closure_28_fixed", "data": ["com.google.javascript.jscomp.InlineCostEstimatorTest::testCost", "com.google.javascript.jscomp.InlineFunctionsTest::testIssue728"]}
+{"project": "Closure_29_fixed", "data": ["com.google.javascript.jscomp.InlineObjectLiteralsTest::testObject10", "com.google.javascript.jscomp.InlineObjectLiteralsTest::testObject12", "com.google.javascript.jscomp.InlineObjectLiteralsTest::testObject22", "com.google.javascript.jscomp.InlineObjectLiteralsTest::testIssue724", "com.google.javascript.jscomp.IntegrationTest::testIssue724"]}
+{"project": "Closure_2_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testBadInterfaceExtendsNonExistentInterfaces"]}
+{"project": "Closure_30_fixed", "data": ["com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testInlineAcrossSideEffect1", "com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testCanInlineAcrossNoSideEffect", "com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testIssue698"]}
+{"project": "Closure_31_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testDependencySortingWhitespaceMode"]}
+{"project": "Closure_32_fixed", "data": ["com.google.javascript.jscomp.IntegrationTest::testIssue701", "com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testParseLicense", "com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testParsePreserve", "com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testParseLicenseAscii"]}
+{"project": "Closure_33_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue700"]}
+{"project": "Closure_34_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testManyAdds"]}
+{"project": "Closure_35_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue669"]}
+{"project": "Closure_36_fixed", "data": ["com.google.javascript.jscomp.IntegrationTest::testSingletonGetter1"]}
+{"project": "Closure_37_fixed", "data": ["com.google.javascript.jscomp.IntegrationTest::testIncompleteFunction"]}
+{"project": "Closure_38_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testMinusNegativeZero"]}
+{"project": "Closure_39_fixed", "data": ["com.google.javascript.rhino.jstype.RecordTypeTest::testRecursiveRecord", "com.google.javascript.rhino.jstype.RecordTypeTest::testLongToString"]}
+{"project": "Closure_3_fixed", "data": ["com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testDoNotInlineCatchExpression1a", "com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testDoNotInlineCatchExpression1", "com.google.javascript.jscomp.FlowSensitiveInlineVariablesTest::testDoNotInlineCatchExpression3"]}
+{"project": "Closure_40_fixed", "data": ["com.google.javascript.jscomp.IntegrationTest::testIssue284", "com.google.javascript.jscomp.NameAnalyzerTest::testIssue284"]}
+{"project": "Closure_41_fixed", "data": ["com.google.javascript.jscomp.LooseTypeCheckTest::testMethodInference6", "com.google.javascript.jscomp.TypeCheckTest::testIssue368", "com.google.javascript.jscomp.TypeCheckTest::testMethodInference6"]}
+{"project": "Closure_42_fixed", "data": ["com.google.javascript.jscomp.parsing.ParserTest::testForEach"]}
+{"project": "Closure_43_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testLends10", "com.google.javascript.jscomp.TypeCheckTest::testLends11"]}
+{"project": "Closure_44_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testIssue620"]}
+{"project": "Closure_45_fixed", "data": ["com.google.javascript.jscomp.RemoveUnusedVarsTest::testIssue618_1"]}
+{"project": "Closure_46_fixed", "data": ["com.google.javascript.rhino.jstype.JSTypeTest::testRecordTypeLeastSuperType2", "com.google.javascript.rhino.jstype.JSTypeTest::testRecordTypeLeastSuperType3", "com.google.javascript.rhino.jstype.RecordTypeTest::testSupAndInf"]}
+{"project": "Closure_47_fixed", "data": ["com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testParseSourceMetaMap", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput0a", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testMultilineMapping", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testMultiFunctionMapping", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testLiteralMappingsGoldenOutput", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testMultilineMapping2", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testBasicMappingGoldenOutput", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testSourceMapMerging", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testLiteralMappings", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testBasicMapping1", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testBasicMapping2", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput1", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput2", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput3", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput4", "com.google.debugging.sourcemap.SourceMapGeneratorV3Test::testGoldenOutput5"]}
+{"project": "Closure_48_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue586"]}
+{"project": "Closure_49_fixed", "data": ["com.google.javascript.jscomp.FunctionInjectorTest::testInline19b", "com.google.javascript.jscomp.FunctionInjectorTest::testInlineIntoLoop", "com.google.javascript.jscomp.FunctionInjectorTest::testInline13", "com.google.javascript.jscomp.FunctionInjectorTest::testInline14", "com.google.javascript.jscomp.FunctionInjectorTest::testInline15", "com.google.javascript.jscomp.FunctionInjectorTest::testInline16", "com.google.javascript.jscomp.FunctionInjectorTest::testInline17", "com.google.javascript.jscomp.FunctionInjectorTest::testInline18", "com.google.javascript.jscomp.FunctionInjectorTest::testInline19", "com.google.javascript.jscomp.FunctionInjectorTest::testBug1897706", "com.google.javascript.jscomp.FunctionInjectorTest::testInlineFunctionWithInnerFunction5", "com.google.javascript.jscomp.FunctionToBlockMutatorTest::testMutateWithParameters3", "com.google.javascript.jscomp.FunctionToBlockMutatorTest::testMutateCallInLoopVars1", "com.google.javascript.jscomp.FunctionToBlockMutatorTest::testMutateInitializeUninitializedVars1", "com.google.javascript.jscomp.FunctionToBlockMutatorTest::testMutateInitializeUninitializedVars2", "com.google.javascript.jscomp.FunctionToBlockMutatorTest::testMutateFunctionDefinition", "com.google.javascript.jscomp.FunctionToBlockMutatorTest::testMutate8", "com.google.javascript.jscomp.InlineFunctionsTest::testLoopWithFunctionWithFunction", "com.google.javascript.jscomp.InlineFunctionsTest::testShadowVariables16", "com.google.javascript.jscomp.InlineFunctionsTest::testShadowVariables18", "com.google.javascript.jscomp.InlineFunctionsTest::testCostBasedInlining11", "com.google.javascript.jscomp.InlineFunctionsTest::testMixedModeInliningCosting3", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineNeverMutateConstants", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineWithThis7", "com.google.javascript.jscomp.InlineFunctionsTest::testAnonymous1", "com.google.javascript.jscomp.InlineFunctionsTest::testAnonymous3", "com.google.javascript.jscomp.InlineFunctionsTest::testShadowVariables1", "com.google.javascript.jscomp.InlineFunctionsTest::testShadowVariables3", "com.google.javascript.jscomp.InlineFunctionsTest::testShadowVariables6", "com.google.javascript.jscomp.InlineFunctionsTest::testShadowVariables7", "com.google.javascript.jscomp.InlineFunctionsTest::testFunctionExpressionCallInlining11b", "com.google.javascript.jscomp.InlineFunctionsTest::testComplexInlineNoResultNoParamCall3", "com.google.javascript.jscomp.InlineFunctionsTest::testCostBasedInlining9", "com.google.javascript.jscomp.InlineFunctionsTest::testMethodWithFunctionWithFunction", "com.google.javascript.jscomp.InlineFunctionsTest::testFunctionExpressionYCombinator", "com.google.javascript.jscomp.InlineFunctionsTest::testComplexInlineVars7", "com.google.javascript.jscomp.InlineFunctionsTest::testComplexFunctionWithFunctionDefinition2a", "com.google.javascript.jscomp.InlineFunctionsTest::testComplexInline7", "com.google.javascript.jscomp.InlineFunctionsTest::testFunctionExpressionOmega", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions15b", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions15d", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions16a", "com.google.javascript.jscomp.InlineFunctionsTest::testBug4944818", "com.google.javascript.jscomp.InlineFunctionsTest::testComplexSample", "com.google.javascript.jscomp.InlineFunctionsTest::testNoInlineIfParametersModified1", "com.google.javascript.jscomp.InlineFunctionsTest::testNoInlineIfParametersModified2", "com.google.javascript.jscomp.InlineFunctionsTest::testNoInlineIfParametersModified3", "com.google.javascript.jscomp.InlineFunctionsTest::testNoInlineIfParametersModified4", "com.google.javascript.jscomp.InlineFunctionsTest::testNoInlineIfParametersModified5", "com.google.javascript.jscomp.InlineFunctionsTest::testNoInlineIfParametersModified6", "com.google.javascript.jscomp.InlineFunctionsTest::testNoInlineIfParametersModified7", "com.google.javascript.jscomp.InlineFunctionsTest::testIssue423", "com.google.javascript.jscomp.InlineFunctionsTest::testComplexFunctionWithFunctionDefinition2", "com.google.javascript.jscomp.InlineFunctionsTest::testComplexFunctionWithFunctionDefinition3", "com.google.javascript.jscomp.InlineFunctionsTest::testDecomposeFunctionExpressionInCall", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineNeverOverrideNewValues", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineBlockMutableArgs1", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineBlockMutableArgs2", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineBlockMutableArgs3", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineBlockMutableArgs4", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions10", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions13", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions22", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions23", "com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions9", "com.google.javascript.jscomp.MakeDeclaredNamesUniqueTest::testMakeLocalNamesUniqueWithContext5"]}
+{"project": "Closure_4_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testImplementsExtendsLoop", "com.google.javascript.jscomp.TypeCheckTest::testImplementsLoop", "com.google.javascript.jscomp.TypeCheckTest::testConversionFromInterfaceToRecursiveConstructor"]}
+{"project": "Closure_50_fixed", "data": ["com.google.javascript.jscomp.PeepholeReplaceKnownMethodsTest::testStringJoinAdd", "com.google.javascript.jscomp.PeepholeReplaceKnownMethodsTest::testNoStringJoin"]}
+{"project": "Closure_51_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testIssue582"]}
+{"project": "Closure_52_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testNumericKeys"]}
+{"project": "Closure_53_fixed", "data": ["com.google.javascript.jscomp.InlineObjectLiteralsTest::testBug545"]}
+{"project": "Closure_54_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue537a", "com.google.javascript.jscomp.TypeCheckTest::testIssue537b", "com.google.javascript.jscomp.TypedScopeCreatorTest::testPropertyOnUnknownSuperClass2"]}
+{"project": "Closure_55_fixed", "data": ["com.google.javascript.jscomp.FunctionRewriterTest::testIssue538"]}
+{"project": "Closure_56_fixed", "data": ["com.google.javascript.jscomp.JSCompilerSourceExcerptProviderTest::testExceptNoNewLine", "com.google.javascript.jscomp.JsMessageExtractorTest::testSyntaxError1", "com.google.javascript.jscomp.JsMessageExtractorTest::testSyntaxError2"]}
+{"project": "Closure_57_fixed", "data": ["com.google.javascript.jscomp.ClosureCodingConventionTest::testRequire"]}
+{"project": "Closure_58_fixed", "data": ["com.google.javascript.jscomp.LiveVariableAnalysisTest::testExpressionInForIn"]}
+{"project": "Closure_59_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testCheckGlobalThisOff"]}
+{"project": "Closure_5_fixed", "data": ["com.google.javascript.jscomp.InlineObjectLiteralsTest::testNoInlineDeletedProperties"]}
+{"project": "Closure_60_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testIssue504", "com.google.javascript.jscomp.NodeUtilTest::testGetBooleanValue"]}
+{"project": "Closure_61_fixed", "data": ["com.google.javascript.jscomp.PeepholeRemoveDeadCodeTest::testCall1", "com.google.javascript.jscomp.PeepholeRemoveDeadCodeTest::testCall2", "com.google.javascript.jscomp.PeepholeRemoveDeadCodeTest::testRemoveUselessOps"]}
+{"project": "Closure_62_fixed", "data": ["com.google.javascript.jscomp.LightweightMessageFormatterTest::testFormatErrorSpaceEndOfLine1", "com.google.javascript.jscomp.LightweightMessageFormatterTest::testFormatErrorSpaceEndOfLine2"]}
+{"project": "Closure_64_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testES5StrictUseStrictMultipleInputs"]}
+{"project": "Closure_65_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testZero"]}
+{"project": "Closure_66_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testGetTypedPercent5", "com.google.javascript.jscomp.TypeCheckTest::testGetTypedPercent6"]}
+{"project": "Closure_67_fixed", "data": ["com.google.javascript.jscomp.RemoveUnusedPrototypePropertiesTest::testAliasing7"]}
+{"project": "Closure_68_fixed", "data": ["com.google.javascript.jscomp.parsing.JsDocInfoParserTest::testIssue477"]}
+{"project": "Closure_69_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testThisTypeOfFunction2", "com.google.javascript.jscomp.TypeCheckTest::testThisTypeOfFunction3", "com.google.javascript.jscomp.TypeCheckTest::testThisTypeOfFunction4"]}
+{"project": "Closure_6_fixed", "data": ["com.google.javascript.jscomp.LooseTypeCheckTest::testTypeRedefinition", "com.google.javascript.jscomp.TypeCheckTest::testIssue635b", "com.google.javascript.jscomp.TypeCheckTest::testTypeRedefinition"]}
+{"project": "Closure_70_fixed", "data": ["com.google.javascript.jscomp.LooseTypeCheckTest::testDuplicateLocalVarDecl", "com.google.javascript.jscomp.LooseTypeCheckTest::testFunctionArguments13", "com.google.javascript.jscomp.TypeCheckTest::testScoping12", "com.google.javascript.jscomp.TypeCheckTest::testDuplicateLocalVarDecl", "com.google.javascript.jscomp.TypeCheckTest::testFunctionArguments13"]}
+{"project": "Closure_71_fixed", "data": ["com.google.javascript.jscomp.CheckAccessControlsTest::testNoPrivateAccessForProperties6", "com.google.javascript.jscomp.CheckAccessControlsTest::testNoPrivateAccessForProperties8"]}
+{"project": "Closure_72_fixed", "data": ["com.google.javascript.jscomp.InlineFunctionsTest::testInlineFunctions31"]}
+{"project": "Closure_73_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testUnicode"]}
+{"project": "Closure_74_fixed", "data": ["com.google.javascript.jscomp.PeepholeFoldConstantsTest::testFoldComparison3", "com.google.javascript.jscomp.PeepholeFoldConstantsTest::testInvertibleOperators", "com.google.javascript.jscomp.PeepholeFoldConstantsTest::testCommutativeOperators"]}
+{"project": "Closure_75_fixed", "data": ["com.google.javascript.jscomp.PeepholeFoldConstantsTest::testIEString"]}
+{"project": "Closure_76_fixed", "data": ["com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testInExpression2", "com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue384b", "com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue384c", "com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue384d"]}
+{"project": "Closure_77_fixed", "data": ["com.google.javascript.jscomp.CodePrinterTest::testZero"]}
+{"project": "Closure_78_fixed", "data": ["com.google.javascript.jscomp.PeepholeFoldConstantsTest::testFoldArithmetic"]}
+{"project": "Closure_79_fixed", "data": ["com.google.javascript.jscomp.NormalizeTest::testIssue", "com.google.javascript.jscomp.VarCheckTest::testPropReferenceInExterns1", "com.google.javascript.jscomp.VarCheckTest::testPropReferenceInExterns3", "com.google.javascript.jscomp.VarCheckTest::testVarReferenceInExterns", "com.google.javascript.jscomp.VarCheckTest::testCallInExterns"]}
+{"project": "Closure_7_fixed", "data": ["com.google.javascript.jscomp.ClosureReverseAbstractInterpreterTest::testGoogIsFunction2", "com.google.javascript.jscomp.SemanticReverseAbstractInterpreterTest::testTypeof3"]}
+{"project": "Closure_80_fixed", "data": ["com.google.javascript.jscomp.NodeUtilTest::testIsBooleanResult", "com.google.javascript.jscomp.NodeUtilTest::testLocalValue1"]}
+{"project": "Closure_81_fixed", "data": ["com.google.javascript.jscomp.parsing.ParserTest::testUnnamedFunctionStatement"]}
+{"project": "Closure_82_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testIssue301", "com.google.javascript.rhino.jstype.FunctionTypeTest::testEmptyFunctionTypes"]}
+{"project": "Closure_83_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testVersionFlag2"]}
+{"project": "Closure_84_fixed", "data": ["com.google.javascript.jscomp.parsing.ParserTest::testDestructuringAssignForbidden4"]}
+{"project": "Closure_85_fixed", "data": ["com.google.javascript.jscomp.UnreachableCodeEliminationTest::testCascadedRemovalOfUnlessUnconditonalJumps", "com.google.javascript.jscomp.UnreachableCodeEliminationTest::testIssue311"]}
+{"project": "Closure_86_fixed", "data": ["com.google.javascript.jscomp.NodeUtilTest::testLocalValue1", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testLocalizedSideEffects8", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testLocalizedSideEffects9", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testAnnotationInExterns_new4", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testAnnotationInExterns_new6", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testIssue303b", "com.google.javascript.jscomp.PureFunctionIdentifierTest::testIssue303"]}
+{"project": "Closure_87_fixed", "data": ["com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntaxTest::testIssue291"]}
+{"project": "Closure_88_fixed", "data": ["com.google.javascript.jscomp.CommandLineRunnerTest::testIssue297", "com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue297a", "com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue297b", "com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue297c", "com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue297d", "com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue297e", "com.google.javascript.jscomp.DeadAssignmentsEliminationTest::testIssue297f"]}
+{"project": "Closure_89_fixed", "data": ["com.google.javascript.jscomp.CollapsePropertiesTest::testAddPropertyToChildOfUncollapsibleFunctionInLocalScope", "com.google.javascript.jscomp.CollapsePropertiesTest::testAliasCreatedForFunctionDepth1_1", "com.google.javascript.jscomp.CollapsePropertiesTest::testAliasCreatedForFunctionDepth1_2", "com.google.javascript.jscomp.CollapsePropertiesTest::testAliasCreatedForFunctionDepth1_3", "com.google.javascript.jscomp.CollapsePropertiesTest::testAddPropertyToUncollapsibleNamedCtorInLocalScopeDepth1", "com.google.javascript.jscomp.CollapsePropertiesTest::testAddPropertyToUncollapsibleFunctionInLocalScopeDepth1", "com.google.javascript.jscomp.CollapsePropertiesTest::testAddPropertyToUncollapsibleFunctionInLocalScopeDepth2", "com.google.javascript.jscomp.CollapsePropertiesTest::testAliasCreatedForFunctionDepth2"]}
+{"project": "Closure_8_fixed", "data": ["com.google.javascript.jscomp.CollapseVariableDeclarationsTest::testIssue820"]}
+{"project": "Closure_90_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testBackwardsTypedefUse8", "com.google.javascript.jscomp.TypeCheckTest::testBackwardsTypedefUse9"]}
+{"project": "Closure_91_fixed", "data": ["com.google.javascript.jscomp.CheckGlobalThisTest::testLendsAnnotation3"]}
+{"project": "Closure_92_fixed", "data": ["com.google.javascript.jscomp.ProcessClosurePrimitivesTest::testProvideInIndependentModules4"]}
+{"project": "Closure_94_fixed", "data": ["com.google.javascript.jscomp.NodeUtilTest::testValidDefine", "com.google.javascript.jscomp.ProcessDefinesTest::testOverridingString1", "com.google.javascript.jscomp.ProcessDefinesTest::testOverridingString3"]}
+{"project": "Closure_95_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testQualifiedNameInference5", "com.google.javascript.jscomp.TypedScopeCreatorTest::testGlobalQualifiedNameInLocalScope"]}
+{"project": "Closure_96_fixed", "data": ["com.google.javascript.jscomp.TypeCheckTest::testFunctionArguments16"]}
+{"project": "Closure_97_fixed", "data": ["com.google.javascript.jscomp.PeepholeFoldConstantsTest::testFoldBitShifts"]}
+{"project": "Closure_98_fixed", "data": ["com.google.javascript.jscomp.InlineVariablesTest::testNoInlineAliasesInLoop"]}
+{"project": "Closure_99_fixed", "data": ["com.google.javascript.jscomp.CheckGlobalThisTest::testPropertyOfMethod", "com.google.javascript.jscomp.CheckGlobalThisTest::testMethod4", "com.google.javascript.jscomp.CheckGlobalThisTest::testInterface1"]}
+{"project": "Closure_9_fixed", "data": ["com.google.javascript.jscomp.ProcessCommonJSModulesTest::testGuessModuleName"]}
+{"project": "Codec_10_fixed", "data": ["org.apache.commons.codec.language.CaverphoneTest::testEndMb"]}
+{"project": "Codec_11_fixed", "data": ["org.apache.commons.codec.net.QuotedPrintableCodecTest::testSkipNotEncodedCRLF", "org.apache.commons.codec.net.QuotedPrintableCodecTest::testSoftLineBreakDecode", "org.apache.commons.codec.net.QuotedPrintableCodecTest::testSoftLineBreakEncode", "org.apache.commons.codec.net.QuotedPrintableCodecTest::testUltimateSoftBreak", "org.apache.commons.codec.net.QuotedPrintableCodecTest::testTrailingSpecial"]}
+{"project": "Codec_12_fixed", "data": ["org.apache.commons.codec.binary.Base32InputStreamTest::testSkipToEnd", "org.apache.commons.codec.binary.Base32InputStreamTest::testCodec130", "org.apache.commons.codec.binary.Base32InputStreamTest::testSkipWrongArgument", "org.apache.commons.codec.binary.Base32InputStreamTest::testAvailable", "org.apache.commons.codec.binary.Base32InputStreamTest::testSkipPastEnd", "org.apache.commons.codec.binary.Base32InputStreamTest::testSkipBig", "org.apache.commons.codec.binary.Base64InputStreamTest::testSkipToEnd", "org.apache.commons.codec.binary.Base64InputStreamTest::testCodec130", "org.apache.commons.codec.binary.Base64InputStreamTest::testSkipWrongArgument", "org.apache.commons.codec.binary.Base64InputStreamTest::testAvailable", "org.apache.commons.codec.binary.Base64InputStreamTest::testSkipPastEnd", "org.apache.commons.codec.binary.Base64InputStreamTest::testSkipBig"]}
+{"project": "Codec_13_fixed", "data": ["org.apache.commons.codec.language.DoubleMetaphoneTest::testIsDoubleMetaphoneEqualBasic", "org.apache.commons.codec.language.DoubleMetaphoneTest::testCodec184"]}
+{"project": "Codec_14_fixed", "data": ["org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest::testCompatibilityWithOriginalVersion"]}
+{"project": "Codec_15_fixed", "data": ["org.apache.commons.codec.language.SoundexTest::testHWRuleEx1"]}
+{"project": "Codec_16_fixed", "data": ["org.apache.commons.codec.binary.Base32Test::testCodec200"]}
+{"project": "Codec_17_fixed", "data": ["org.apache.commons.codec.binary.StringUtilsTest::testNewStringNullInput_CODEC229"]}
+{"project": "Codec_18_fixed", "data": ["org.apache.commons.codec.binary.StringUtilsTest::testEqualsCS1", "org.apache.commons.codec.binary.StringUtilsTest::testEqualsCS2"]}
+{"project": "Codec_1_fixed", "data": ["org.apache.commons.codec.language.CaverphoneTest::testLocaleIndependence", "org.apache.commons.codec.language.DoubleMetaphoneTest::testLocaleIndependence", "org.apache.commons.codec.language.MetaphoneTest::testLocaleIndependence", "org.apache.commons.codec.language.RefinedSoundexTest::testLocaleIndependence", "org.apache.commons.codec.language.SoundexTest::testLocaleIndependence"]}
+{"project": "Codec_2_fixed", "data": ["org.apache.commons.codec.binary.Base64InputStreamTest::testBase64EmptyInputStream", "org.apache.commons.codec.binary.Base64OutputStreamTest::testBase64EmptyOutputStream"]}
+{"project": "Codec_3_fixed", "data": ["org.apache.commons.codec.language.DoubleMetaphone2Test::testDoubleMetaphoneAlternate"]}
+{"project": "Codec_4_fixed", "data": ["org.apache.commons.codec.binary.Base64Codec13Test::testEncoder", "org.apache.commons.codec.binary.Base64Codec13Test::testBinaryEncoder"]}
+{"project": "Codec_5_fixed", "data": ["org.apache.commons.codec.binary.Base64InputStreamTest::testCodec98NPE", "org.apache.commons.codec.binary.Base64OutputStreamTest::testCodec98NPE"]}
+{"project": "Codec_6_fixed", "data": ["org.apache.commons.codec.binary.Base64InputStreamTest::testCodec101"]}
+{"project": "Codec_7_fixed", "data": ["org.apache.commons.codec.binary.Base64Test::testByteToStringVariations", "org.apache.commons.codec.binary.Base64Test::testRfc4648Section10Encode"]}
+{"project": "Codec_8_fixed", "data": ["org.apache.commons.codec.binary.Base64InputStreamTest::testCodec105"]}
+{"project": "Codec_9_fixed", "data": ["org.apache.commons.codec.binary.Base64Test::testCodec112"]}
+{"project": "Collections_25_fixed", "data": ["org.apache.commons.collections4.IteratorUtilsTest::testCollatedIterator"]}
+{"project": "Collections_26_fixed", "data": ["org.apache.commons.collections4.keyvalue.MultiKeyTest::testEqualsAfterSerializationOfDerivedClass"]}
+{"project": "Collections_27_fixed", "data": ["org.apache.commons.collections4.map.MultiValueMapTest::testUnsafeDeSerialization"]}
+{"project": "Collections_28_fixed", "data": ["org.apache.commons.collections4.trie.PatriciaTrieTest::testPrefixMapClear"]}
+{"project": "Compress_10_fixed", "data": ["org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testReadWinZipArchive"]}
+{"project": "Compress_11_fixed", "data": ["org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::shortTextFilesAreNoTARs"]}
+{"project": "Compress_12_fixed", "data": ["org.apache.commons.compress.archivers.TarTestCase::testCOMPRESS178"]}
+{"project": "Compress_13_fixed", "data": ["org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::winzipBackSlashWorkaround", "org.apache.commons.compress.archivers.zip.ZipFileTest::testWinzipBackSlashWorkaround"]}
+{"project": "Compress_14_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::workaroundForBrokenTimeHeader"]}
+{"project": "Compress_15_fixed", "data": ["org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testNullCommentEqualsEmptyComment"]}
+{"project": "Compress_16_fixed", "data": ["org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::aiffFilesAreNoTARs"]}
+{"project": "Compress_17_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::testCompress197"]}
+{"project": "Compress_18_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteNonAsciiDirectoryNamePosixMode"]}
+{"project": "Compress_19_fixed", "data": ["org.apache.commons.compress.archivers.zip.ZipFileTest::testExcessDataInZip64ExtraField"]}
+{"project": "Compress_1_fixed", "data": ["org.apache.commons.compress.archivers.CpioTestCase::testCpioUnarchive"]}
+{"project": "Compress_20_fixed", "data": ["org.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamTest::testCpioUnarchiveCreatedByRedlineRpm"]}
+{"project": "Compress_21_fixed", "data": ["org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSevenEmptyFiles", "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testEightFilesSomeNotEmpty", "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSixEmptyFiles", "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testEightEmptyFiles", "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testNineEmptyFiles", "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSixFilesSomeNotEmpty", "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testNineFilesSomeNotEmpty", "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSevenFilesSomeNotEmpty"]}
+{"project": "Compress_22_fixed", "data": ["org.apache.commons.compress.compressors.bzip2.PythonTruncatedBzip2Test::testPartialReadTruncatedData"]}
+{"project": "Compress_23_fixed", "data": ["org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testCompressedHeaderWithNonDefaultDictionarySize"]}
+{"project": "Compress_24_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctal"]}
+{"project": "Compress_25_fixed", "data": ["org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testReadingOfFirstStoredEntry"]}
+{"project": "Compress_26_fixed", "data": ["org.apache.commons.compress.utils.IOUtilsTest::skipUsingRead", "org.apache.commons.compress.utils.IOUtilsTest::skipUsingSkipAndRead"]}
+{"project": "Compress_27_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctal"]}
+{"project": "Compress_28_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::shouldThrowAnExceptionOnTruncatedEntries"]}
+{"project": "Compress_29_fixed", "data": ["org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingInputStream", "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingInputStreamAutodetect", "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingOutputStream"]}
+{"project": "Compress_2_fixed", "data": ["org.apache.commons.compress.archivers.ArTestCase::testArDelete"]}
+{"project": "Compress_30_fixed", "data": ["org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamTest::readOfLength0ShouldReturn0"]}
+{"project": "Compress_31_fixed", "data": ["org.apache.commons.compress.archivers.TarTestCase::testCOMPRESS178", "org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctalInvalid"]}
+{"project": "Compress_32_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::shouldReadBigGid"]}
+{"project": "Compress_33_fixed", "data": ["org.apache.commons.compress.compressors.DetectCompressorTestCase::testDetection"]}
+{"project": "Compress_34_fixed", "data": ["org.apache.commons.compress.archivers.zip.X7875_NewUnixTest::testParseReparse"]}
+{"project": "Compress_35_fixed", "data": ["org.apache.commons.compress.DetectArchiverTestCase::testCOMPRESS335"]}
+{"project": "Compress_36_fixed", "data": ["org.apache.commons.compress.archivers.sevenz.SevenZFileTest::readEntriesOfSize0"]}
+{"project": "Compress_37_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::survivesBlankLinesInPaxHeader"]}
+{"project": "Compress_38_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::survivesPaxHeaderWithNameEndingInSlash"]}
+{"project": "Compress_39_fixed", "data": ["org.apache.commons.compress.ArchiveUtilsTest::sanitizeShortensString"]}
+{"project": "Compress_3_fixed", "data": ["org.apache.commons.compress.archivers.ArchiveOutputStreamTest::testFinish"]}
+{"project": "Compress_40_fixed", "data": ["org.apache.commons.compress.utils.BitInputStreamTest::littleEndianWithOverflow", "org.apache.commons.compress.utils.BitInputStreamTest::bigEndianWithOverflow"]}
+{"project": "Compress_41_fixed", "data": ["org.apache.commons.compress.archivers.ZipTestCase::testListAllFilesWithNestedArchive", "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testThrowOnInvalidEntry"]}
+{"project": "Compress_42_fixed", "data": ["org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::isUnixSymlinkIsFalseIfMoreThanOneFlagIsSet"]}
+{"project": "Compress_43_fixed", "data": ["org.apache.commons.compress.archivers.zip.DataDescriptorTest::doesntWriteDataDescriptorWhenAddingRawEntries"]}
+{"project": "Compress_44_fixed", "data": ["org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testClassInstantiationWithParameterBeingNullThrowsNullPointerExceptionOne", "org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testClassInstantiationWithParameterBeingNullThrowsNullPointerExceptionTwo", "org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testClassInstantiationWithParameterBeingNullThrowsNullPointerExceptionThree"]}
+{"project": "Compress_45_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripOctalOrBinary8"]}
+{"project": "Compress_46_fixed", "data": ["org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testGettersSetters"]}
+{"project": "Compress_47_fixed", "data": ["org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::properlyMarksEntriesAsUnreadableIfUncompressedSizeIsUnknown"]}
+{"project": "Compress_4_fixed", "data": ["org.apache.commons.compress.archivers.jar.JarArchiveOutputStreamTest::testJarMarker", "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testCP437FileRoundtripImplicitUnicodeExtra", "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripImplicitUnicodeExtra", "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testCP437FileRoundtripExplicitUnicodeExtra", "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripExplicitUnicodeExtra", "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testASCIIFileRoundtripImplicitUnicodeExtra", "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripNoEFSImplicitUnicodeExtra", "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testZipArchiveInputStreamReadsUnicodeFields", "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testASCIIFileRoundtripExplicitUnicodeExtra", "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripNoEFSExplicitUnicodeExtra"]}
+{"project": "Compress_5_fixed", "data": ["org.apache.commons.compress.archivers.zip.Maven221MultiVolumeTest::testRead7ZipMultiVolumeArchiveForStream"]}
+{"project": "Compress_6_fixed", "data": ["org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testNotEquals"]}
+{"project": "Compress_7_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripNames"]}
+{"project": "Compress_8_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctalInvalid"]}
+{"project": "Compress_9_fixed", "data": ["org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testCount"]}
+{"project": "Csv_10_fixed", "data": ["org.apache.commons.csv.CSVPrinterTest::testHeader"]}
+{"project": "Csv_11_fixed", "data": ["org.apache.commons.csv.CSVParserTest::testHeaderMissingWithNull"]}
+{"project": "Csv_12_fixed", "data": ["org.apache.commons.csv.CSVParserTest::testExcelHeaderCountLessThanData"]}
+{"project": "Csv_13_fixed", "data": ["org.apache.commons.csv.CSVPrinterTest::testMySqlNullOutput", "org.apache.commons.csv.CSVPrinterTest::testMySqlNullStringDefault"]}
+{"project": "Csv_14_fixed", "data": ["org.apache.commons.csv.CSVPrinterTest::testEscapeNull1", "org.apache.commons.csv.CSVPrinterTest::testEscapeNull4", "org.apache.commons.csv.CSVPrinterTest::testEscapeNull5", "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash1", "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash4", "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash5"]}
+{"project": "Csv_15_fixed", "data": ["org.apache.commons.csv.CSVPrinterTest::testDontQuoteEuroFirstChar"]}
+{"project": "Csv_16_fixed", "data": ["org.apache.commons.csv.CSVParserTest::testIteratorSequenceBreaking"]}
+{"project": "Csv_1_fixed", "data": ["org.apache.commons.csv.CSVParserTest::testGetLineNumberWithCR"]}
+{"project": "Csv_2_fixed", "data": ["org.apache.commons.csv.CSVRecordTest::testGetStringInconsistentRecord"]}
+{"project": "Csv_3_fixed", "data": ["org.apache.commons.csv.CSVLexerTest::testEscapedMySqlNullValue", "org.apache.commons.csv.CSVLexerTest::testEscapedCharacter", "org.apache.commons.csv.CSVParserTest::testBackslashEscaping"]}
+{"project": "Csv_4_fixed", "data": ["org.apache.commons.csv.CSVParserTest::testNoHeaderMap"]}
+{"project": "Csv_5_fixed", "data": ["org.apache.commons.csv.CSVFormatTest::testNullRecordSeparatorCsv106"]}
+{"project": "Csv_6_fixed", "data": ["org.apache.commons.csv.CSVRecordTest::testToMapWithShortRecord"]}
+{"project": "Csv_7_fixed", "data": ["org.apache.commons.csv.CSVParserTest::testDuplicateHeaderEntries"]}
+{"project": "Csv_8_fixed", "data": ["org.apache.commons.csv.CSVFormatTest::testDuplicateHeaderElements"]}
+{"project": "Csv_9_fixed", "data": ["org.apache.commons.csv.CSVRecordTest::testToMapWithNoHeader"]}
+{"project": "Gson_10_fixed", "data": ["com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testPrimitiveFieldAnnotationTakesPrecedenceOverDefault"]}
+{"project": "Gson_11_fixed", "data": ["com.google.gson.functional.PrimitiveTest::testNumberAsStringDeserialization"]}
+{"project": "Gson_12_fixed", "data": ["com.google.gson.internal.bind.JsonTreeReaderTest::testSkipValue_filledJsonObject", "com.google.gson.internal.bind.JsonTreeReaderTest::testSkipValue_emptyJsonObject"]}
+{"project": "Gson_13_fixed", "data": ["com.google.gson.stream.JsonReaderTest::testNegativeZero"]}
+{"project": "Gson_14_fixed", "data": ["com.google.gson.internal.bind.RecursiveTypesResolveTest::testDoubleSupertype", "com.google.gson.internal.bind.RecursiveTypesResolveTest::testIssue440WeakReference", "com.google.gson.internal.bind.RecursiveTypesResolveTest::testSubSupertype", "com.google.gson.internal.bind.RecursiveTypesResolveTest::testDoubleSubtype", "com.google.gson.internal.bind.RecursiveTypesResolveTest::testIssue603PrintStream", "com.google.gson.internal.bind.RecursiveTypesResolveTest::testSuperSubtype", "com.google.gson.internal.bind.RecursiveTypesResolveTest::testRecursiveResolveSimple"]}
+{"project": "Gson_15_fixed", "data": ["com.google.gson.stream.JsonWriterTest::testNonFiniteDoublesWhenLenient"]}
+{"project": "Gson_16_fixed", "data": ["com.google.gson.internal.bind.RecursiveTypesResolveTest::testRecursiveTypeVariablesResolve12", "com.google.gson.internal.bind.RecursiveTypesResolveTest::testRecursiveTypeVariablesResolve1"]}
+{"project": "Gson_17_fixed", "data": ["com.google.gson.DefaultDateTypeAdapterTest::testUnexpectedToken", "com.google.gson.DefaultDateTypeAdapterTest::testNullValue"]}
+{"project": "Gson_18_fixed", "data": ["com.google.gson.functional.CollectionTest::testIssue1107"]}
+{"project": "Gson_1_fixed", "data": ["com.google.gson.functional.TypeVariableTest::testSingle"]}
+{"project": "Gson_2_fixed", "data": ["com.google.gson.functional.DefaultTypeAdaptersTest::testJsonElementTypeMismatch"]}
+{"project": "Gson_3_fixed", "data": ["com.google.gson.functional.MapTest::testConcurrentMap", "com.google.gson.functional.MapTest::testConcurrentNavigableMap"]}
+{"project": "Gson_4_fixed", "data": ["com.google.gson.stream.JsonReaderTest::testTopLevelValueTypeWithSkipValue", "com.google.gson.stream.JsonReaderTest::testTopLevelValueTypes", "com.google.gson.stream.JsonWriterTest::testTopLevelValueTypes"]}
+{"project": "Gson_5_fixed", "data": ["com.google.gson.DefaultDateTypeAdapterTest::testDateDeserializationISO8601"]}
+{"project": "Gson_6_fixed", "data": ["com.google.gson.regression.JsonAdapterNullSafeTest::testNullSafeBugDeserialize", "com.google.gson.regression.JsonAdapterNullSafeTest::testNullSafeBugSerialize"]}
+{"project": "Gson_7_fixed", "data": ["com.google.gson.functional.MapTest::testMapDeserializationWithUnquotedLongKeys", "com.google.gson.functional.MapTest::testMapDeserializationWithUnquotedIntegerKeys", "com.google.gson.stream.JsonReaderTest::testPeekingUnquotedStringsPrefixedWithIntegers"]}
+{"project": "Gson_8_fixed", "data": ["com.google.gson.internal.UnsafeAllocatorInstantiationTest::testInterfaceInstantiation", "com.google.gson.internal.UnsafeAllocatorInstantiationTest::testAbstractClassInstantiation"]}
+{"project": "Gson_9_fixed", "data": ["com.google.gson.stream.JsonWriterTest::testBoxedBooleans"]}
+{"project": "JacksonCore_10_fixed", "data": ["com.fasterxml.jackson.core.sym.TestByteBasedSymbols::testIssue207", "com.fasterxml.jackson.core.sym.TestSymbolTables::testCollisionsWithBytesNew187b", "com.fasterxml.jackson.core.sym.TestSymbolTables::testSyntheticWithBytesNew", "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortNameCollisionsDirectNew"]}
+{"project": "JacksonCore_11_fixed", "data": ["com.fasterxml.jackson.core.sym.SymbolsViaParserTest::testSymbolTableExpansionBytes"]}
+{"project": "JacksonCore_12_fixed", "data": ["com.fasterxml.jackson.core.json.LocationInObjectTest::testOffsetWithObjectFieldsUsingReader"]}
+{"project": "JacksonCore_13_fixed", "data": ["com.fasterxml.jackson.core.json.TestJsonGeneratorFeatures::testFieldNameQuotingEnabled"]}
+{"project": "JacksonCore_14_fixed", "data": ["com.fasterxml.jackson.core.io.TestIOContext::testAllocations"]}
+{"project": "JacksonCore_15_fixed", "data": ["com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatches"]}
+{"project": "JacksonCore_16_fixed", "data": ["com.fasterxml.jackson.core.json.ParserSequenceTest::testInitialized"]}
+{"project": "JacksonCore_17_fixed", "data": ["com.fasterxml.jackson.core.json.RawValueWithSurrogatesTest::testRawWithSurrogatesString"]}
+{"project": "JacksonCore_18_fixed", "data": ["com.fasterxml.jackson.core.json.TestJsonGeneratorFeatures::testTooBigBigDecimal"]}
+{"project": "JacksonCore_19_fixed", "data": ["com.fasterxml.jackson.core.json.TestNumericValues::testLongerFloatingPoint"]}
+{"project": "JacksonCore_1_fixed", "data": ["com.fasterxml.jackson.core.json.TestParserNonStandard::testAllowNaN"]}
+{"project": "JacksonCore_20_fixed", "data": ["com.fasterxml.jackson.core.base64.Base64GenerationTest::testBinaryAsEmbeddedObject", "com.fasterxml.jackson.core.main.TestGeneratorMisc::testAsEmbedded"]}
+{"project": "JacksonCore_21_fixed", "data": ["com.fasterxml.jackson.core.filter.TokenVerifyingParserFiltering330Test::testTokensSingleMatchWithPath", "com.fasterxml.jackson.core.filter.TokenVerifyingParserFiltering330Test::testBasicSingleMatchFilteringWithPath", "com.fasterxml.jackson.core.filter.TokenVerifyingParserFiltering330Test::testSkippingForSingleWithPath"]}
+{"project": "JacksonCore_22_fixed", "data": ["com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithPath", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testAllowMultipleMatchesWithPath1", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testAllowMultipleMatchesWithPath2", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testMultipleMatchFilteringWithPath1", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testMultipleMatchFilteringWithPath2", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testMultipleMatchFilteringWithPath3", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithoutPath", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithoutPath1", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithoutPath2", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testIndexMatchWithPath1", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testIndexMatchWithPath2", "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testAllowMultipleMatchesWithoutPath"]}
+{"project": "JacksonCore_23_fixed", "data": ["com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testInvalidSubClass"]}
+{"project": "JacksonCore_24_fixed", "data": ["com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToLongFailing", "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToIntFailing", "com.fasterxml.jackson.core.read.NumberCoercionTest::testToLongFailing", "com.fasterxml.jackson.core.read.NumberCoercionTest::testToIntFailing", "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousLongOverflow", "com.fasterxml.jackson.core.read.NumberOverflowTest::testSimpleLongOverflow", "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousIntOverflow", "com.fasterxml.jackson.core.read.NumberParsingTest::testSimpleLong"]}
+{"project": "JacksonCore_25_fixed", "data": ["com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testUnquotedIssue510"]}
+{"project": "JacksonCore_26_fixed", "data": ["com.fasterxml.jackson.core.json.async.AsyncLocationTest::testLocationOffsets"]}
+{"project": "JacksonCore_2_fixed", "data": ["com.fasterxml.jackson.core.json.TestParserErrorHandling::testMangledNumbersBytes", "com.fasterxml.jackson.core.json.TestParserErrorHandling::testMangledNumbersChars"]}
+{"project": "JacksonCore_3_fixed", "data": ["com.fasterxml.jackson.core.json.TestLocation::testOffsetWithInputOffset"]}
+{"project": "JacksonCore_4_fixed", "data": ["com.fasterxml.jackson.core.util.TestTextBuffer::testExpand"]}
+{"project": "JacksonCore_5_fixed", "data": ["com.fasterxml.jackson.core.TestJsonPointer::testWonkyNumber173"]}
+{"project": "JacksonCore_6_fixed", "data": ["com.fasterxml.jackson.core.TestJsonPointer::testIZeroIndex"]}
+{"project": "JacksonCore_7_fixed", "data": ["com.fasterxml.jackson.core.json.GeneratorFailTest::testFailOnWritingStringNotFieldNameBytes", "com.fasterxml.jackson.core.json.GeneratorFailTest::testFailOnWritingStringNotFieldNameChars"]}
+{"project": "JacksonCore_8_fixed", "data": ["com.fasterxml.jackson.core.util.TestTextBuffer::testEmpty"]}
+{"project": "JacksonCore_9_fixed", "data": ["com.fasterxml.jackson.core.json.TestJsonParser::testGetValueAsTextBytes", "com.fasterxml.jackson.core.json.TestJsonParser::testGetValueAsTextChars"]}
+{"project": "JacksonDatabind_100_fixed", "data": ["com.fasterxml.jackson.databind.node.TestConversions::testBase64Text"]}
+{"project": "JacksonDatabind_101_fixed", "data": ["com.fasterxml.jackson.databind.struct.TestUnwrapped::testIssue2088UnwrappedFieldsAfterLastCreatorProp"]}
+{"project": "JacksonDatabind_102_fixed", "data": ["com.fasterxml.jackson.databind.ser.jdk.SqlDateSerializationTest::testSqlDateConfigOverride"]}
+{"project": "JacksonDatabind_103_fixed", "data": ["com.fasterxml.jackson.databind.exc.BasicExceptionTest::testLocationAddition"]}
+{"project": "JacksonDatabind_104_fixed", "data": ["com.fasterxml.jackson.databind.ser.jdk.DateSerializationTest::testDateISO8601_10k", "com.fasterxml.jackson.databind.ser.jdk.DateSerializationTest::testDateISO8601_BCE"]}
+{"project": "JacksonDatabind_105_fixed", "data": ["com.fasterxml.jackson.databind.deser.jdk.JDKScalarsTest::testVoidDeser"]}
+{"project": "JacksonDatabind_106_fixed", "data": ["com.fasterxml.jackson.databind.node.TestTreeTraversingParser::testNumberOverflowLong", "com.fasterxml.jackson.databind.node.TestTreeTraversingParser::testNumberOverflowInt"]}
+{"project": "JacksonDatabind_107_fixed", "data": ["com.fasterxml.jackson.databind.deser.filter.ProblemHandlerUnknownTypeId2221Test::testWithDeserializationProblemHandler"]}
+{"project": "JacksonDatabind_108_fixed", "data": ["com.fasterxml.jackson.databind.node.EmptyContentAsTreeTest::testNullFromEOFWithParserAndReader"]}
+{"project": "JacksonDatabind_109_fixed", "data": ["com.fasterxml.jackson.databind.ser.jdk.BigDecimalPlain2230Test::testBigIntegerAsPlainTest"]}
+{"project": "JacksonDatabind_10_fixed", "data": ["com.fasterxml.jackson.databind.ser.TestAnyGetter::testIssue705"]}
+{"project": "JacksonDatabind_110_fixed", "data": ["com.fasterxml.jackson.databind.deser.jdk.UtilCollectionsTypesTest::testUnmodifiableListFromLinkedList"]}
+{"project": "JacksonDatabind_111_fixed", "data": ["com.fasterxml.jackson.databind.deser.jdk.JDKAtomicTypesDeserTest::testNullWithinNested"]}
+{"project": "JacksonDatabind_112_fixed", "data": ["com.fasterxml.jackson.databind.deser.creators.DelegatingArrayCreator2324Test::testDeserializeBagOfStrings"]}
+{"project": "JacksonDatabind_11_fixed", "data": ["com.fasterxml.jackson.databind.type.TestJavaType::testLocalType728", "com.fasterxml.jackson.databind.type.TestLocalType609::testLocalPartialType609"]}
+{"project": "JacksonDatabind_12_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestCustomDeserializers::testCustomMapValueDeser735"]}
+{"project": "JacksonDatabind_13_fixed", "data": ["com.fasterxml.jackson.databind.struct.TestObjectIdDeserialization::testNullObjectId"]}
+{"project": "JacksonDatabind_14_fixed", "data": ["com.fasterxml.jackson.databind.convert.TestUpdateValue::testIssue744"]}
+{"project": "JacksonDatabind_15_fixed", "data": ["com.fasterxml.jackson.databind.convert.TestConvertingSerializer::testIssue731"]}
+{"project": "JacksonDatabind_16_fixed", "data": ["com.fasterxml.jackson.databind.mixins.MixinsWithBundlesTest::testMixinWithBundles"]}
+{"project": "JacksonDatabind_17_fixed", "data": ["com.fasterxml.jackson.databind.node.TestJsonNode::testArrayWithDefaultTyping"]}
+{"project": "JacksonDatabind_18_fixed", "data": ["com.fasterxml.jackson.databind.seq.ReadRecoveryTest::testSimpleRootRecovery", "com.fasterxml.jackson.databind.seq.ReadRecoveryTest::testRootBeans", "com.fasterxml.jackson.databind.seq.ReadRecoveryTest::testSimpleArrayRecovery"]}
+{"project": "JacksonDatabind_19_fixed", "data": ["com.fasterxml.jackson.databind.convert.TestMapConversions::testMapToProperties", "com.fasterxml.jackson.databind.deser.TestMapDeserialization::testReadProperties", "com.fasterxml.jackson.databind.type.TestTypeFactory::testProperties"]}
+{"project": "JacksonDatabind_1_fixed", "data": ["com.fasterxml.jackson.databind.struct.TestPOJOAsArray::testNullColumn"]}
+{"project": "JacksonDatabind_20_fixed", "data": ["com.fasterxml.jackson.databind.introspect.TestNamingStrategyStd::testNamingWithObjectNode"]}
+{"project": "JacksonDatabind_21_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestEnumDeserialization::testEnumWithJsonPropertyRename"]}
+{"project": "JacksonDatabind_22_fixed", "data": ["com.fasterxml.jackson.databind.ser.TestJsonValue::testJsonValueWithCustomOverride"]}
+{"project": "JacksonDatabind_23_fixed", "data": ["com.fasterxml.jackson.databind.ser.TestJsonSerialize2::testEmptyInclusionScalars"]}
+{"project": "JacksonDatabind_24_fixed", "data": ["com.fasterxml.jackson.databind.ser.TestConfig::testDateFormatConfig"]}
+{"project": "JacksonDatabind_25_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestArrayDeserialization::testByteArrayTypeOverride890"]}
+{"project": "JacksonDatabind_26_fixed", "data": ["com.fasterxml.jackson.databind.TestJDKSerialization::testEnumHandlers"]}
+{"project": "JacksonDatabind_27_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TestExternalId::testInverseExternalId928"]}
+{"project": "JacksonDatabind_28_fixed", "data": ["com.fasterxml.jackson.databind.node.TestObjectNode::testIssue941"]}
+{"project": "JacksonDatabind_29_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TestExternalId::testExternalTypeIdWithNull"]}
+{"project": "JacksonDatabind_2_fixed", "data": ["com.fasterxml.jackson.databind.node.TestConversions::testConversionOfPojos"]}
+{"project": "JacksonDatabind_30_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TestExternalId::testBigDecimal965"]}
+{"project": "JacksonDatabind_31_fixed", "data": ["com.fasterxml.jackson.databind.util.TestTokenBuffer::testOutputContext"]}
+{"project": "JacksonDatabind_32_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestUntypedDeserialization::testNestedUntyped989"]}
+{"project": "JacksonDatabind_33_fixed", "data": ["com.fasterxml.jackson.databind.struct.TestUnwrapped::testUnwrappedAsPropertyIndicator"]}
+{"project": "JacksonDatabind_34_fixed", "data": ["com.fasterxml.jackson.databind.jsonschema.NewSchemaTest::testSimpleNumbers"]}
+{"project": "JacksonDatabind_35_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.WrapperObjectWithObjectIdTest::testSimple"]}
+{"project": "JacksonDatabind_36_fixed", "data": ["com.fasterxml.jackson.databind.TestStdDateFormat::testLenient"]}
+{"project": "JacksonDatabind_37_fixed", "data": ["com.fasterxml.jackson.databind.objectid.Objecid1083Test::testSimple"]}
+{"project": "JacksonDatabind_38_fixed", "data": ["com.fasterxml.jackson.databind.interop.DeprecatedTypeHandling1102Test::testExplicitMapType", "com.fasterxml.jackson.databind.interop.DeprecatedTypeHandling1102Test::testExplicitCollectionType", "com.fasterxml.jackson.databind.interop.DeprecatedTypeHandling1102Test::testPOJOSubType"]}
+{"project": "JacksonDatabind_39_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TestPolymorphicWithDefaultImpl::testUnknownTypeIDRecovery"]}
+{"project": "JacksonDatabind_3_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestArrayDeserialization::testStringArray"]}
+{"project": "JacksonDatabind_40_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestSimpleTypes::testEmptyToNullCoercionForPrimitives"]}
+{"project": "JacksonDatabind_41_fixed", "data": ["com.fasterxml.jackson.databind.interop.DeprecatedTypeHandling1102Test::testDeprecatedTypeResolution"]}
+{"project": "JacksonDatabind_42_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestJdkTypes::testLocale"]}
+{"project": "JacksonDatabind_43_fixed", "data": ["com.fasterxml.jackson.databind.objectid.TestObjectIdSerialization::testNullStringPropertyId"]}
+{"project": "JacksonDatabind_44_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TestSubtypes::testIssue1125WithDefault"]}
+{"project": "JacksonDatabind_45_fixed", "data": ["com.fasterxml.jackson.databind.ser.DateSerializationTest::testDateDefaultShape"]}
+{"project": "JacksonDatabind_46_fixed", "data": ["com.fasterxml.jackson.databind.type.TestJavaType::testGenericSignature1195"]}
+{"project": "JacksonDatabind_47_fixed", "data": ["com.fasterxml.jackson.databind.ser.TestJsonSerialize::testBrokenAnnotation", "com.fasterxml.jackson.databind.ser.TestJsonSerializeAs::testSpecializedAsIntermediate"]}
+{"project": "JacksonDatabind_48_fixed", "data": ["com.fasterxml.jackson.databind.ser.TestFeatures::testVisibilityFeatures"]}
+{"project": "JacksonDatabind_49_fixed", "data": ["com.fasterxml.jackson.databind.objectid.AlwaysAsReferenceFirstTest::testIssue1255"]}
+{"project": "JacksonDatabind_4_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestCollectionDeserialization::testArrayIndexForExceptions"]}
+{"project": "JacksonDatabind_50_fixed", "data": ["com.fasterxml.jackson.databind.objectid.ObjectWithCreator1261Test::testObjectIds1261"]}
+{"project": "JacksonDatabind_51_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TestCustomTypeIdResolver::testPolymorphicTypeViaCustom"]}
+{"project": "JacksonDatabind_52_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.ext.ExternalTypeId999Test::testExternalTypeId"]}
+{"project": "JacksonDatabind_53_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TypeRefinementForMap1215Test::testMapRefinement"]}
+{"project": "JacksonDatabind_54_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestJDKAtomicTypes::testEmpty1256"]}
+{"project": "JacksonDatabind_55_fixed", "data": ["com.fasterxml.jackson.databind.ser.TestEnumSerialization::testEnumsWithJsonPropertyAsKey"]}
+{"project": "JacksonDatabind_56_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestJdkTypes::testLocale"]}
+{"project": "JacksonDatabind_57_fixed", "data": ["com.fasterxml.jackson.databind.seq.ReadValuesTest::testRootBeans"]}
+{"project": "JacksonDatabind_58_fixed", "data": ["com.fasterxml.jackson.databind.misc.AccessFixTest::testCauseOfThrowableIgnoral"]}
+{"project": "JacksonDatabind_59_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TypeRefinementForMapTest::testMapKeyRefinement1384"]}
+{"project": "JacksonDatabind_5_fixed", "data": ["com.fasterxml.jackson.databind.introspect.TestMixinMerging::testDisappearingMixins515"]}
+{"project": "JacksonDatabind_60_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TestDefaultWithCreators::testWithCreatorAndJsonValue", "com.fasterxml.jackson.databind.jsontype.ext.ExternalTypeIdTest::testWithAsValue"]}
+{"project": "JacksonDatabind_61_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.DefaultTypingWithPrimitivesTest::testDefaultTypingWithLong"]}
+{"project": "JacksonDatabind_62_fixed", "data": ["com.fasterxml.jackson.databind.creators.ArrayDelegatorCreatorForCollectionTest::testUnmodifiable"]}
+{"project": "JacksonDatabind_63_fixed", "data": ["com.fasterxml.jackson.databind.deser.exc.ExceptionPathTest::testReferenceChainForInnerClass", "com.fasterxml.jackson.databind.deser.exc.TestExceptionHandlingWithDefaultDeserialization::testShouldThrowJsonMappingExceptionWithPathReference", "com.fasterxml.jackson.databind.deser.exc.TestExceptionHandlingWithJsonCreatorDeserialization::testShouldThrowJsonMappingExceptionWithPathReference"]}
+{"project": "JacksonDatabind_64_fixed", "data": ["com.fasterxml.jackson.databind.filter.JsonIncludeTest::testIssue1351"]}
+{"project": "JacksonDatabind_65_fixed", "data": ["com.fasterxml.jackson.databind.deser.KeyDeser1429Test::testDeserializeKeyViaFactory"]}
+{"project": "JacksonDatabind_66_fixed", "data": ["com.fasterxml.jackson.databind.module.TestCustomEnumKeyDeserializer::testCustomEnumKeySerializerWithPolymorphic"]}
+{"project": "JacksonDatabind_67_fixed", "data": ["com.fasterxml.jackson.databind.module.TestCustomEnumKeyDeserializer::testCustomEnumValueAndKeyViaModifier"]}
+{"project": "JacksonDatabind_68_fixed", "data": ["com.fasterxml.jackson.databind.struct.SingleValueAsArrayTest::testSuccessfulDeserializationOfObjectWithChainedArrayCreators", "com.fasterxml.jackson.databind.struct.SingleValueAsArrayTest::testWithSingleString"]}
+{"project": "JacksonDatabind_69_fixed", "data": ["com.fasterxml.jackson.databind.creators.Creator1476Test::testConstructorChoice"]}
+{"project": "JacksonDatabind_6_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestDateDeserialization::testISO8601MissingSeconds", "com.fasterxml.jackson.databind.deser.TestDateDeserialization::testISO8601PartialMilliseconds"]}
+{"project": "JacksonDatabind_70_fixed", "data": ["com.fasterxml.jackson.databind.struct.TestUnwrapped::testCaseInsensitiveUnwrap"]}
+{"project": "JacksonDatabind_71_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestMapDeserialization::testcharSequenceKeyMap"]}
+{"project": "JacksonDatabind_72_fixed", "data": ["com.fasterxml.jackson.databind.creators.InnerClassCreatorTest::testIssue1501"]}
+{"project": "JacksonDatabind_73_fixed", "data": ["com.fasterxml.jackson.databind.deser.ReadOrWriteOnlyTest::testReadOnlyAndWriteOnly", "com.fasterxml.jackson.databind.deser.ReadOrWriteOnlyTest::testReadOnly935"]}
+{"project": "JacksonDatabind_74_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TestPolymorphicWithDefaultImpl::testWithEmptyStringAsNullObject1533"]}
+{"project": "JacksonDatabind_75_fixed", "data": ["com.fasterxml.jackson.databind.struct.EnumFormatShapeTest::testEnumPropertyAsNumber"]}
+{"project": "JacksonDatabind_76_fixed", "data": ["com.fasterxml.jackson.databind.deser.builder.BuilderWithUnwrappedTest::testWithUnwrappedAndCreatorSingleParameterAtBeginning", "com.fasterxml.jackson.databind.deser.builder.BuilderWithUnwrappedTest::testWithUnwrappedAndCreatorMultipleParametersAtBeginning", "com.fasterxml.jackson.databind.deser.builder.BuilderWithUnwrappedTest::testWithUnwrappedAndCreatorSingleParameterInMiddle", "com.fasterxml.jackson.databind.deser.builder.BuilderWithUnwrappedTest::testWithUnwrappedAndCreatorMultipleParametersInMiddle"]}
+{"project": "JacksonDatabind_77_fixed", "data": ["com.fasterxml.jackson.databind.interop.IllegalTypesCheckTest::testIssue1599"]}
+{"project": "JacksonDatabind_78_fixed", "data": ["com.fasterxml.jackson.databind.interop.IllegalTypesCheckTest::testIssue1599"]}
+{"project": "JacksonDatabind_79_fixed", "data": ["com.fasterxml.jackson.databind.objectid.AlwaysAsReferenceFirstTest::testIssue1607"]}
+{"project": "JacksonDatabind_7_fixed", "data": ["com.fasterxml.jackson.databind.creators.TestCreatorsDelegating::testDelegateWithTokenBuffer"]}
+{"project": "JacksonDatabind_80_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.TestTypeNames::testBaseTypeId1616"]}
+{"project": "JacksonDatabind_81_fixed", "data": ["com.fasterxml.jackson.databind.introspect.TypeCoercion1592Test::testTypeCoercion1592"]}
+{"project": "JacksonDatabind_82_fixed", "data": ["com.fasterxml.jackson.databind.filter.IgnorePropertyOnDeserTest::testIgnoreGetterNotSetter1595"]}
+{"project": "JacksonDatabind_83_fixed", "data": ["com.fasterxml.jackson.databind.filter.ProblemHandlerTest::testWeirdStringHandling"]}
+{"project": "JacksonDatabind_84_fixed", "data": ["com.fasterxml.jackson.databind.type.TestTypeFactoryWithRecursiveTypes::testBasePropertiesIncludedWhenSerializingSubWhenSubTypeLoadedAfterBaseType"]}
+{"project": "JacksonDatabind_85_fixed", "data": ["com.fasterxml.jackson.databind.ser.DateSerializationTest::testFormatWithoutPattern"]}
+{"project": "JacksonDatabind_86_fixed", "data": ["com.fasterxml.jackson.databind.type.RecursiveTypeTest::testSuperClassWithReferencedJavaType", "com.fasterxml.jackson.databind.type.TestTypeFactoryWithRecursiveTypes::testBasePropertiesIncludedWhenSerializingSubWhenSubTypeLoadedAfterBaseType"]}
+{"project": "JacksonDatabind_87_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestDateDeserialization::testDateUtilISO8601NoTimezoneNonDefault"]}
+{"project": "JacksonDatabind_88_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.GenericTypeId1735Test::testNestedTypeCheck1735"]}
+{"project": "JacksonDatabind_89_fixed", "data": ["com.fasterxml.jackson.databind.interop.IllegalTypesCheckTest::testJDKTypes1737"]}
+{"project": "JacksonDatabind_8_fixed", "data": ["com.fasterxml.jackson.databind.deser.TestJdkTypes::testStringBuilder"]}
+{"project": "JacksonDatabind_90_fixed", "data": ["com.fasterxml.jackson.databind.creators.DelegatingArrayCreator1804Test::testDelegatingArray1804"]}
+{"project": "JacksonDatabind_91_fixed", "data": ["com.fasterxml.jackson.databind.deser.jdk.MapDeserializerCachingTest::testCachedSerialize"]}
+{"project": "JacksonDatabind_92_fixed", "data": ["com.fasterxml.jackson.databind.interop.IllegalTypesCheckTest::testJDKTypes1737"]}
+{"project": "JacksonDatabind_93_fixed", "data": ["com.fasterxml.jackson.databind.interop.IllegalTypesCheckTest::testJDKTypes1872"]}
+{"project": "JacksonDatabind_94_fixed", "data": ["com.fasterxml.jackson.databind.interop.IllegalTypesCheckTest::testC3P0Types"]}
+{"project": "JacksonDatabind_95_fixed", "data": ["com.fasterxml.jackson.databind.type.TestTypeFactory::testCanonicalNames"]}
+{"project": "JacksonDatabind_96_fixed", "data": ["com.fasterxml.jackson.databind.deser.creators.CreatorWithNamingStrategyTest::testSnakeCaseWithOneArg"]}
+{"project": "JacksonDatabind_97_fixed", "data": ["com.fasterxml.jackson.databind.node.POJONodeTest::testPOJONodeCustomSer"]}
+{"project": "JacksonDatabind_98_fixed", "data": ["com.fasterxml.jackson.databind.jsontype.ext.ExternalTypeIdWithEnum1328Test::testExample"]}
+{"project": "JacksonDatabind_99_fixed", "data": ["com.fasterxml.jackson.databind.type.TestTypeFactory::testCanonicalNames"]}
+{"project": "JacksonDatabind_9_fixed", "data": ["com.fasterxml.jackson.databind.ser.TestMapSerialization::testClassKey"]}
+{"project": "JacksonXml_1_fixed", "data": ["com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedLists180Test::testNestedUnwrappedLists180", "com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedListsTest::testNestedWithEmpty2", "com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedListsTest::testNestedWithEmpty"]}
+{"project": "JacksonXml_2_fixed", "data": ["com.fasterxml.jackson.dataformat.xml.misc.XmlTextTest::testMixedContent"]}
+{"project": "JacksonXml_3_fixed", "data": ["com.fasterxml.jackson.dataformat.xml.stream.XmlParserNextXxxTest::testXmlAttributesWithNextTextValue"]}
+{"project": "JacksonXml_4_fixed", "data": ["com.fasterxml.jackson.dataformat.xml.misc.RootNameTest::testDynamicRootName"]}
+{"project": "JacksonXml_5_fixed", "data": ["com.fasterxml.jackson.dataformat.xml.MapperCopyTest::testCopyWith"]}
+{"project": "JacksonXml_6_fixed", "data": ["com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith0Bytes", "com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith2Bytes", "com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith3Bytes", "com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith4Bytes", "com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith1Byte"]}
+{"project": "Jsoup_10_fixed", "data": []}
+{"project": "Jsoup_11_fixed", "data": []}
+{"project": "Jsoup_12_fixed", "data": []}
+{"project": "Jsoup_13_fixed", "data": []}
+{"project": "Jsoup_14_fixed", "data": []}
+{"project": "Jsoup_15_fixed", "data": []}
+{"project": "Jsoup_16_fixed", "data": []}
+{"project": "Jsoup_17_fixed", "data": []}
+{"project": "Jsoup_18_fixed", "data": []}
+{"project": "Jsoup_19_fixed", "data": []}
+{"project": "Jsoup_1_fixed", "data": []}
+{"project": "Jsoup_20_fixed", "data": []}
+{"project": "Jsoup_21_fixed", "data": []}
+{"project": "Jsoup_22_fixed", "data": []}
+{"project": "Jsoup_23_fixed", "data": []}
+{"project": "Jsoup_24_fixed", "data": []}
+{"project": "Jsoup_25_fixed", "data": []}
+{"project": "Jsoup_26_fixed", "data": []}
+{"project": "Jsoup_27_fixed", "data": []}
+{"project": "Jsoup_28_fixed", "data": []}
+{"project": "Jsoup_29_fixed", "data": []}
+{"project": "Jsoup_2_fixed", "data": []}
+{"project": "Jsoup_30_fixed", "data": []}
+{"project": "Jsoup_31_fixed", "data": []}
+{"project": "Jsoup_32_fixed", "data": []}
+{"project": "Jsoup_33_fixed", "data": []}
+{"project": "Jsoup_34_fixed", "data": []}
+{"project": "Jsoup_35_fixed", "data": []}
+{"project": "Jsoup_36_fixed", "data": []}
+{"project": "Jsoup_37_fixed", "data": []}
+{"project": "Jsoup_38_fixed", "data": []}
+{"project": "Jsoup_39_fixed", "data": []}
+{"project": "Jsoup_3_fixed", "data": []}
+{"project": "Jsoup_40_fixed", "data": []}
+{"project": "Jsoup_41_fixed", "data": []}
+{"project": "Jsoup_42_fixed", "data": []}
+{"project": "Jsoup_43_fixed", "data": []}
+{"project": "Jsoup_44_fixed", "data": []}
+{"project": "Jsoup_45_fixed", "data": []}
+{"project": "Jsoup_46_fixed", "data": []}
+{"project": "Jsoup_47_fixed", "data": []}
+{"project": "Jsoup_48_fixed", "data": []}
+{"project": "Jsoup_49_fixed", "data": []}
+{"project": "Jsoup_4_fixed", "data": []}
+{"project": "Jsoup_50_fixed", "data": []}
+{"project": "Jsoup_51_fixed", "data": []}
+{"project": "Jsoup_52_fixed", "data": []}
+{"project": "Jsoup_53_fixed", "data": []}
+{"project": "Jsoup_54_fixed", "data": []}
+{"project": "Jsoup_55_fixed", "data": []}
+{"project": "Jsoup_56_fixed", "data": []}
+{"project": "Jsoup_57_fixed", "data": []}
+{"project": "Jsoup_58_fixed", "data": []}
+{"project": "Jsoup_59_fixed", "data": []}
+{"project": "Jsoup_5_fixed", "data": []}
+{"project": "Jsoup_60_fixed", "data": []}
+{"project": "Jsoup_61_fixed", "data": []}
+{"project": "Jsoup_62_fixed", "data": []}
+{"project": "Jsoup_63_fixed", "data": []}
+{"project": "Jsoup_64_fixed", "data": []}
+{"project": "Jsoup_65_fixed", "data": []}
+{"project": "Jsoup_66_fixed", "data": []}
+{"project": "Jsoup_67_fixed", "data": []}
+{"project": "Jsoup_68_fixed", "data": []}
+{"project": "Jsoup_69_fixed", "data": []}
+{"project": "Jsoup_6_fixed", "data": []}
+{"project": "Jsoup_70_fixed", "data": []}
+{"project": "Jsoup_71_fixed", "data": []}
+{"project": "Jsoup_72_fixed", "data": []}
+{"project": "Jsoup_73_fixed", "data": []}
+{"project": "Jsoup_74_fixed", "data": []}
+{"project": "Jsoup_75_fixed", "data": []}
+{"project": "Jsoup_76_fixed", "data": []}
+{"project": "Jsoup_77_fixed", "data": []}
+{"project": "Jsoup_78_fixed", "data": []}
+{"project": "Jsoup_79_fixed", "data": []}
+{"project": "Jsoup_7_fixed", "data": []}
+{"project": "Jsoup_80_fixed", "data": []}
+{"project": "Jsoup_81_fixed", "data": []}
+{"project": "Jsoup_82_fixed", "data": []}
+{"project": "Jsoup_83_fixed", "data": ["org.jsoup.parser.HtmlParserTest::parsesQuiteRoughAttributes", "org.jsoup.parser.TokeniserStateTest::handlesLessInTagThanAsNewTag"]}
+{"project": "Jsoup_84_fixed", "data": ["org.jsoup.helper.W3CDomTest::treatsUndeclaredNamespaceAsLocalName"]}
+{"project": "Jsoup_85_fixed", "data": ["org.jsoup.nodes.AttributeTest::validatesKeysNotEmpty"]}
+{"project": "Jsoup_86_fixed", "data": ["org.jsoup.parser.XmlTreeBuilderTest::handlesLTinScript"]}
+{"project": "Jsoup_87_fixed", "data": ["org.jsoup.parser.HtmlParserTest::preservedCaseLinksCantNest"]}
+{"project": "Jsoup_88_fixed", "data": ["org.jsoup.nodes.AttributeTest::booleanAttributesAreEmptyStringValues"]}
+{"project": "Jsoup_89_fixed", "data": ["org.jsoup.nodes.AttributeTest::settersOnOrphanAttribute"]}
+{"project": "Jsoup_8_fixed", "data": []}
+{"project": "Jsoup_90_fixed", "data": ["org.jsoup.helper.HttpConnectionTest::handlesHeaderEncodingOnRequest"]}
+{"project": "Jsoup_91_fixed", "data": ["org.jsoup.integration.ConnectTest::testBinaryThrowsExceptionWhenTypeIgnored", "org.jsoup.integration.ConnectTest::testBinaryResultThrows", "org.jsoup.integration.ParseTest::testBinaryThrowsException"]}
+{"project": "Jsoup_92_fixed", "data": ["org.jsoup.parser.HtmlParserTest::retainsAttributesOfDifferentCaseIfSensitive", "org.jsoup.parser.HtmlParserTest::dropsDuplicateAttributes", "org.jsoup.parser.XmlTreeBuilderTest::dropsDuplicateAttributes"]}
+{"project": "Jsoup_93_fixed", "data": ["org.jsoup.nodes.FormElementTest::createsFormData"]}
+{"project": "Jsoup_9_fixed", "data": []}
+{"project": "JxPath_10_fixed", "data": ["org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testEmptyNodeSetOperations"]}
+{"project": "JxPath_11_fixed", "data": ["org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNamespaceMapping", "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testNamespaceMapping"]}
+{"project": "JxPath_12_fixed", "data": ["org.apache.commons.jxpath.ri.model.ExternalXMLNamespaceTest::testElementDOM"]}
+{"project": "JxPath_13_fixed", "data": ["org.apache.commons.jxpath.ri.model.ExternalXMLNamespaceTest::testCreateAndSetAttributeDOM"]}
+{"project": "JxPath_14_fixed", "data": ["org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testCoreFunctions"]}
+{"project": "JxPath_15_fixed", "data": ["org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testUnion", "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testUnion"]}
+{"project": "JxPath_16_fixed", "data": ["org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisFollowing", "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisPreceding", "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisFollowing", "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisPreceding"]}
+{"project": "JxPath_17_fixed", "data": ["org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisAttribute", "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisAttribute"]}
+{"project": "JxPath_18_fixed", "data": ["org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisAttribute", "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisAttribute"]}
+{"project": "JxPath_19_fixed", "data": ["org.apache.commons.jxpath.ri.model.AliasedNamespaceIterationTest::testIterateJDOM", "org.apache.commons.jxpath.ri.model.AliasedNamespaceIterationTest::testIterateDOM"]}
+{"project": "JxPath_1_fixed", "data": ["org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testGetNode", "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testGetNode"]}
+{"project": "JxPath_20_fixed", "data": ["org.apache.commons.jxpath.ri.compiler.JXPath149Test::testComplexOperationWithVariables"]}
+{"project": "JxPath_21_fixed", "data": ["org.apache.commons.jxpath.ri.model.JXPath151Test::testMapValueEquality", "org.apache.commons.jxpath.ri.model.MixedModelTest::testNull"]}
+{"project": "JxPath_22_fixed", "data": ["org.apache.commons.jxpath.ri.model.JXPath154Test::testInnerEmptyNamespaceDOM"]}
+{"project": "JxPath_2_fixed", "data": ["org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testNodeSetReturn"]}
+{"project": "JxPath_3_fixed", "data": ["org.apache.commons.jxpath.ri.model.beans.BadlyImplementedFactoryTest::testBadFactoryImplementation"]}
+{"project": "JxPath_4_fixed", "data": ["org.apache.commons.jxpath.ri.model.XMLSpaceTest::testPreserveDOM", "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testNestedJDOM", "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testNestedWithCommentsJDOM", "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testPreserveJDOM", "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testNestedDOM", "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testNestedWithCommentsDOM"]}
+{"project": "JxPath_5_fixed", "data": ["org.apache.commons.jxpath.ri.compiler.VariableTest::testUnionOfVariableAndNode"]}
+{"project": "JxPath_6_fixed", "data": ["org.apache.commons.jxpath.ri.compiler.VariableTest::testIterateVariable"]}
+{"project": "JxPath_7_fixed", "data": ["org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testNodeSetOperations"]}
+{"project": "JxPath_8_fixed", "data": ["org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testNan"]}
+{"project": "JxPath_9_fixed", "data": ["org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testNan"]}
+{"project": "Lang_10_fixed", "data": ["org.apache.commons.lang3.time.FastDateFormat_ParserTest::testLANG_831", "org.apache.commons.lang3.time.FastDateParserTest::testLANG_831"]}
+{"project": "Lang_11_fixed", "data": ["org.apache.commons.lang3.RandomStringUtilsTest::testLANG807"]}
+{"project": "Lang_12_fixed", "data": ["org.apache.commons.lang3.RandomStringUtilsTest::testExceptions", "org.apache.commons.lang3.RandomStringUtilsTest::testLANG805"]}
+{"project": "Lang_13_fixed", "data": ["org.apache.commons.lang3.SerializationUtilsTest::testPrimitiveTypeClassSerialization"]}
+{"project": "Lang_14_fixed", "data": ["org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testEquals"]}
+{"project": "Lang_15_fixed", "data": ["org.apache.commons.lang3.reflect.TypeUtilsTest::testGetTypeArguments", "org.apache.commons.lang3.reflect.TypeUtilsTest::testIsAssignable"]}
+{"project": "Lang_16_fixed", "data": ["org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber"]}
+{"project": "Lang_17_fixed", "data": ["org.apache.commons.lang3.StringEscapeUtilsTest::testLang720"]}
+{"project": "Lang_18_fixed", "data": ["org.apache.commons.lang3.time.FastDateFormatTest::testFormat"]}
+{"project": "Lang_19_fixed", "data": ["org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testUnfinishedEntity", "org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testOutOfBounds"]}
+{"project": "Lang_1_fixed", "data": ["org.apache.commons.lang3.math.NumberUtilsTest::TestLang747"]}
+{"project": "Lang_20_fixed", "data": ["org.apache.commons.lang3.StringUtilsTest::testJoin_ArrayChar", "org.apache.commons.lang3.StringUtilsTest::testJoin_Objectarray"]}
+{"project": "Lang_21_fixed", "data": ["org.apache.commons.lang3.time.DateUtilsTest::testIsSameLocalTime_Cal"]}
+{"project": "Lang_22_fixed", "data": ["org.apache.commons.lang3.math.FractionTest::testReducedFactory_int_int", "org.apache.commons.lang3.math.FractionTest::testReduce"]}
+{"project": "Lang_23_fixed", "data": ["org.apache.commons.lang3.text.ExtendedMessageFormatTest::testEqualsHashcode"]}
+{"project": "Lang_24_fixed", "data": ["org.apache.commons.lang3.math.NumberUtilsTest::testIsNumber"]}
+{"project": "Lang_25_fixed", "data": ["org.apache.commons.lang3.text.translate.EntityArraysTest::testISO8859_1_ESCAPE"]}
+{"project": "Lang_26_fixed", "data": ["org.apache.commons.lang3.time.FastDateFormatTest::testLang645"]}
+{"project": "Lang_27_fixed", "data": ["org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber"]}
+{"project": "Lang_28_fixed", "data": ["org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testSupplementaryUnescaping"]}
+{"project": "Lang_29_fixed", "data": ["org.apache.commons.lang3.SystemUtilsTest::testJavaVersionAsInt"]}
+{"project": "Lang_30_fixed", "data": ["org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_CharArrayWithSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_StringWithSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAny_StringCharArrayWithBadSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringStringWithSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAny_StringWithBadSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAny_StringCharArrayWithSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringCharArrayWithSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_StringWithBadSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAny_StringStringWithSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_CharArrayWithBadSupplementaryChars"]}
+{"project": "Lang_31_fixed", "data": ["org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAnyCharArrayWithSupplementaryChars", "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAnyStringWithSupplementaryChars"]}
+{"project": "Lang_32_fixed", "data": ["org.apache.commons.lang3.builder.HashCodeBuilderTest::testReflectionObjectCycle"]}
+{"project": "Lang_33_fixed", "data": ["org.apache.commons.lang3.ClassUtilsTest::testToClass_object"]}
+{"project": "Lang_34_fixed", "data": ["org.apache.commons.lang3.builder.ToStringBuilderTest::testObjectCycle", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionHierarchy", "org.apache.commons.lang3.builder.ToStringBuilderTest::testSelfInstanceTwoVarsReflectionObjectCycle", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayCycle", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionLongArrayArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayArrayCycle", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionFloatArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionDoubleArrayArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionBooleanArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionyteArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionDoubleArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionIntArrayArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionLongArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionhortArrayArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionObjectArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionObjectCycle", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionBooleanArrayArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testSimpleReflectionObjectCycle", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionByteArrayArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayCycleLevel2", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayAndObjectCycle", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionCharArrayArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionShortArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testSelfInstanceVarReflectionObjectCycle", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionIntArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionCharArray", "org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionFloatArrayArray"]}
+{"project": "Lang_35_fixed", "data": ["org.apache.commons.lang3.ArrayUtilsAddTest::testLANG571"]}
+{"project": "Lang_36_fixed", "data": ["org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber", "org.apache.commons.lang3.math.NumberUtilsTest::testIsNumber"]}
+{"project": "Lang_37_fixed", "data": ["org.apache.commons.lang3.ArrayUtilsAddTest::testJira567"]}
+{"project": "Lang_38_fixed", "data": ["org.apache.commons.lang3.time.FastDateFormatTest::testLang538"]}
+{"project": "Lang_39_fixed", "data": ["org.apache.commons.lang3.StringUtilsTest::testReplace_StringStringArrayStringArray"]}
+{"project": "Lang_3_fixed", "data": ["org.apache.commons.lang3.math.NumberUtilsTest::testStringCreateNumberEnsureNoPrecisionLoss"]}
+{"project": "Lang_40_fixed", "data": ["org.apache.commons.lang.StringUtilsEqualsIndexOfTest::testContainsIgnoreCase_LocaleIndependence"]}
+{"project": "Lang_41_fixed", "data": ["org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class", "org.apache.commons.lang.ClassUtilsTest::test_getPackageName_Class"]}
+{"project": "Lang_42_fixed", "data": ["org.apache.commons.lang.StringEscapeUtilsTest::testEscapeHtmlHighUnicode"]}
+{"project": "Lang_43_fixed", "data": ["org.apache.commons.lang.text.ExtendedMessageFormatTest::testEscapedQuote_LANG_477"]}
+{"project": "Lang_44_fixed", "data": ["org.apache.commons.lang.NumberUtilsTest::testLang457"]}
+{"project": "Lang_45_fixed", "data": ["org.apache.commons.lang.WordUtilsTest::testAbbreviate"]}
+{"project": "Lang_46_fixed", "data": ["org.apache.commons.lang.StringEscapeUtilsTest::testEscapeJavaWithSlash"]}
+{"project": "Lang_47_fixed", "data": ["org.apache.commons.lang.text.StrBuilderTest::testLang412Left", "org.apache.commons.lang.text.StrBuilderTest::testLang412Right"]}
+{"project": "Lang_48_fixed", "data": ["org.apache.commons.lang.builder.EqualsBuilderTest::testBigDecimal"]}
+{"project": "Lang_49_fixed", "data": ["org.apache.commons.lang.math.FractionTest::testReduce"]}
+{"project": "Lang_4_fixed", "data": ["org.apache.commons.lang3.text.translate.LookupTranslatorTest::testLang882"]}
+{"project": "Lang_50_fixed", "data": ["org.apache.commons.lang.time.FastDateFormatTest::test_changeDefault_Locale_DateInstance", "org.apache.commons.lang.time.FastDateFormatTest::test_changeDefault_Locale_DateTimeInstance"]}
+{"project": "Lang_51_fixed", "data": ["org.apache.commons.lang.BooleanUtilsTest::test_toBoolean_String"]}
+{"project": "Lang_52_fixed", "data": ["org.apache.commons.lang.StringEscapeUtilsTest::testEscapeJavaScript"]}
+{"project": "Lang_53_fixed", "data": ["org.apache.commons.lang.time.DateUtilsTest::testRoundLang346"]}
+{"project": "Lang_54_fixed", "data": ["org.apache.commons.lang.LocaleUtilsTest::testLang328"]}
+{"project": "Lang_55_fixed", "data": ["org.apache.commons.lang.time.StopWatchTest::testLang315"]}
+{"project": "Lang_56_fixed", "data": ["org.apache.commons.lang.time.FastDateFormatTest::testLang303"]}
+{"project": "Lang_57_fixed", "data": ["org.apache.commons.lang.LocaleUtilsTest::testAvailableLocaleSet", "org.apache.commons.lang.LocaleUtilsTest::testIsAvailableLocale", "org.apache.commons.lang.LocaleUtilsTest::testAvailableLocaleList", "org.apache.commons.lang.LocaleUtilsTest::testCountriesByLanguage", "org.apache.commons.lang.LocaleUtilsTest::testLocaleLookupList_LocaleLocale", "org.apache.commons.lang.LocaleUtilsTest::testLanguagesByCountry", "org.apache.commons.lang.LocaleUtilsTest::testToLocale_1Part", "org.apache.commons.lang.LocaleUtilsTest::testToLocale_2Part", "org.apache.commons.lang.LocaleUtilsTest::testToLocale_3Part", "org.apache.commons.lang.LocaleUtilsTest::testLocaleLookupList_Locale", "org.apache.commons.lang.LocaleUtilsTest::testConstructor"]}
+{"project": "Lang_58_fixed", "data": ["org.apache.commons.lang.math.NumberUtilsTest::testLang300"]}
+{"project": "Lang_59_fixed", "data": ["org.apache.commons.lang.text.StrBuilderAppendInsertTest::testLang299"]}
+{"project": "Lang_5_fixed", "data": ["org.apache.commons.lang3.LocaleUtilsTest::testLang865"]}
+{"project": "Lang_60_fixed", "data": ["org.apache.commons.lang.text.StrBuilderTest::testLang295"]}
+{"project": "Lang_61_fixed", "data": ["org.apache.commons.lang.text.StrBuilderTest::testIndexOfLang294", "org.apache.commons.lang.text.StrBuilderTest::testLang294"]}
+{"project": "Lang_62_fixed", "data": ["org.apache.commons.lang.EntitiesTest::testNumberOverflow"]}
+{"project": "Lang_63_fixed", "data": ["org.apache.commons.lang.time.DurationFormatUtilsTest::testJiraLang281"]}
+{"project": "Lang_64_fixed", "data": ["org.apache.commons.lang.enums.ValuedEnumTest::testCompareTo_otherEnumType"]}
+{"project": "Lang_65_fixed", "data": ["org.apache.commons.lang.time.DateUtilsTest::testTruncateLang59"]}
+{"project": "Lang_6_fixed", "data": ["org.apache.commons.lang3.StringUtilsTest::testEscapeSurrogatePairs"]}
+{"project": "Lang_7_fixed", "data": ["org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber"]}
+{"project": "Lang_8_fixed", "data": ["org.apache.commons.lang3.time.FastDateFormat_PrinterTest::testCalendarTimezoneRespected", "org.apache.commons.lang3.time.FastDatePrinterTest::testCalendarTimezoneRespected"]}
+{"project": "Lang_9_fixed", "data": ["org.apache.commons.lang3.time.FastDateFormat_ParserTest::testLANG_832", "org.apache.commons.lang3.time.FastDateParserTest::testLANG_832"]}
+{"project": "Math_100_fixed", "data": ["org.apache.commons.math.estimation.GaussNewtonEstimatorTest::testBoundParameters"]}
+{"project": "Math_101_fixed", "data": ["org.apache.commons.math.complex.ComplexFormatTest::testForgottenImaginaryCharacter", "org.apache.commons.math.complex.FrenchComplexFormatTest::testForgottenImaginaryCharacter"]}
+{"project": "Math_102_fixed", "data": ["org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquareLargeTestStatistic", "org.apache.commons.math.stat.inference.ChiSquareFactoryTest::testChiSquare", "org.apache.commons.math.stat.inference.ChiSquareTestTest::testChiSquareLargeTestStatistic", "org.apache.commons.math.stat.inference.ChiSquareTestTest::testChiSquare", "org.apache.commons.math.stat.inference.TestUtilsTest::testChiSquareLargeTestStatistic", "org.apache.commons.math.stat.inference.TestUtilsTest::testChiSquare"]}
+{"project": "Math_103_fixed", "data": ["org.apache.commons.math.distribution.NormalDistributionTest::testExtremeValues"]}
+{"project": "Math_104_fixed", "data": ["org.apache.commons.math.special.GammaTest::testRegularizedGammaPositivePositive"]}
+{"project": "Math_105_fixed", "data": ["org.apache.commons.math.stat.regression.SimpleRegressionTest::testSSENonNegative"]}
+{"project": "Math_106_fixed", "data": ["org.apache.commons.math.fraction.FractionFormatTest::testParseProperInvalidMinus"]}
+{"project": "Math_10_fixed", "data": ["org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest::testAtan2SpecialCases"]}
+{"project": "Math_11_fixed", "data": ["org.apache.commons.math3.distribution.MultivariateNormalDistributionTest::testUnivariateDistribution"]}
+{"project": "Math_12_fixed", "data": ["org.apache.commons.math3.distribution.GammaDistributionTest::testDistributionClone", "org.apache.commons.math3.distribution.LogNormalDistributionTest::testDistributionClone", "org.apache.commons.math3.distribution.NormalDistributionTest::testDistributionClone"]}
+{"project": "Math_13_fixed", "data": ["org.apache.commons.math3.optimization.fitting.PolynomialFitterTest::testLargeSample"]}
+{"project": "Math_14_fixed", "data": ["org.apache.commons.math3.fitting.PolynomialFitterTest::testLargeSample"]}
+{"project": "Math_15_fixed", "data": ["org.apache.commons.math3.util.FastMathTest::testMath904"]}
+{"project": "Math_16_fixed", "data": ["org.apache.commons.math3.util.FastMathTest::testMath905LargePositive", "org.apache.commons.math3.util.FastMathTest::testMath905LargeNegative"]}
+{"project": "Math_17_fixed", "data": ["org.apache.commons.math3.dfp.DfpTest::testMultiply"]}
+{"project": "Math_18_fixed", "data": ["org.apache.commons.math3.optimization.direct.CMAESOptimizerTest::testFitAccuracyDependsOnBoundary"]}
+{"project": "Math_19_fixed", "data": ["org.apache.commons.math3.optimization.direct.CMAESOptimizerTest::testBoundaryRangeTooLarge"]}
+{"project": "Math_1_fixed", "data": ["org.apache.commons.math3.fraction.BigFractionTest::testDigitLimitConstructor", "org.apache.commons.math3.fraction.FractionTest::testDigitLimitConstructor"]}
+{"project": "Math_20_fixed", "data": ["org.apache.commons.math3.optimization.direct.CMAESOptimizerTest::testMath864"]}
+{"project": "Math_21_fixed", "data": ["org.apache.commons.math3.linear.RectangularCholeskyDecompositionTest::testMath789", "org.apache.commons.math3.linear.RectangularCholeskyDecompositionTest::testFullRank"]}
+{"project": "Math_22_fixed", "data": ["org.apache.commons.math3.distribution.FDistributionTest::testIsSupportLowerBoundInclusive", "org.apache.commons.math3.distribution.UniformRealDistributionTest::testIsSupportUpperBoundInclusive"]}
+{"project": "Math_23_fixed", "data": ["org.apache.commons.math3.optimization.univariate.BrentOptimizerTest::testKeepInitIfBest"]}
+{"project": "Math_24_fixed", "data": ["org.apache.commons.math3.optimization.univariate.BrentOptimizerTest::testMath855"]}
+{"project": "Math_25_fixed", "data": ["org.apache.commons.math3.optimization.fitting.HarmonicFitterTest::testMath844"]}
+{"project": "Math_26_fixed", "data": ["org.apache.commons.math3.fraction.FractionTest::testIntegerOverflow"]}
+{"project": "Math_27_fixed", "data": ["org.apache.commons.math3.fraction.FractionTest::testMath835"]}
+{"project": "Math_28_fixed", "data": ["org.apache.commons.math3.optimization.linear.SimplexSolverTest::testMath828Cycle"]}
+{"project": "Math_29_fixed", "data": ["org.apache.commons.math3.linear.SparseRealVectorTest::testEbeDivideMixedTypes", "org.apache.commons.math3.linear.SparseRealVectorTest::testEbeMultiplyMixedTypes", "org.apache.commons.math3.linear.SparseRealVectorTest::testEbeMultiplySameType"]}
+{"project": "Math_2_fixed", "data": ["org.apache.commons.math3.distribution.HypergeometricDistributionTest::testMath1021"]}
+{"project": "Math_30_fixed", "data": ["org.apache.commons.math3.stat.inference.MannWhitneyUTestTest::testBigDataSet"]}
+{"project": "Math_31_fixed", "data": ["org.apache.commons.math3.distribution.BinomialDistributionTest::testMath718", "org.apache.commons.math3.distribution.FDistributionTest::testMath785"]}
+{"project": "Math_32_fixed", "data": ["org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest::testIssue780"]}
+{"project": "Math_33_fixed", "data": ["org.apache.commons.math3.optimization.linear.SimplexSolverTest::testMath781"]}
+{"project": "Math_34_fixed", "data": ["org.apache.commons.math3.genetics.ListPopulationTest::testIterator"]}
+{"project": "Math_35_fixed", "data": ["org.apache.commons.math3.genetics.ElitisticListPopulationTest::testChromosomeListConstructorTooLow", "org.apache.commons.math3.genetics.ElitisticListPopulationTest::testConstructorTooHigh", "org.apache.commons.math3.genetics.ElitisticListPopulationTest::testConstructorTooLow", "org.apache.commons.math3.genetics.ElitisticListPopulationTest::testChromosomeListConstructorTooHigh"]}
+{"project": "Math_36_fixed", "data": ["org.apache.commons.math.fraction.BigFractionTest::testFloatValueForLargeNumeratorAndDenominator", "org.apache.commons.math.fraction.BigFractionTest::testDoubleValueForLargeNumeratorAndDenominator"]}
+{"project": "Math_37_fixed", "data": ["org.apache.commons.math.complex.ComplexTest::testTanhInf", "org.apache.commons.math.complex.ComplexTest::testTan", "org.apache.commons.math.complex.ComplexTest::testTanh", "org.apache.commons.math.complex.ComplexTest::testTanInf"]}
+{"project": "Math_38_fixed", "data": ["org.apache.commons.math.optimization.direct.BOBYQAOptimizerTest::testConstrainedRosenWithMoreInterpolationPoints"]}
+{"project": "Math_39_fixed", "data": ["org.apache.commons.math.ode.nonstiff.DormandPrince853IntegratorTest::testTooLargeFirstStep"]}
+{"project": "Math_3_fixed", "data": ["org.apache.commons.math3.util.MathArraysTest::testLinearCombinationWithSingleElementArray"]}
+{"project": "Math_40_fixed", "data": ["org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolverTest::testIssue716"]}
+{"project": "Math_41_fixed", "data": ["org.apache.commons.math.stat.descriptive.moment.VarianceTest::testEvaluateArraySegmentWeighted"]}
+{"project": "Math_42_fixed", "data": ["org.apache.commons.math.optimization.linear.SimplexSolverTest::testMath713NegativeVariable"]}
+{"project": "Math_43_fixed", "data": ["org.apache.commons.math.stat.descriptive.SummaryStatisticsTest::testOverrideMeanWithMathClass", "org.apache.commons.math.stat.descriptive.SummaryStatisticsTest::testOverrideGeoMeanWithMathClass", "org.apache.commons.math.stat.descriptive.SummaryStatisticsTest::testOverrideVarianceWithMathClass", "org.apache.commons.math.stat.descriptive.SynchronizedSummaryStatisticsTest::testOverrideMeanWithMathClass", "org.apache.commons.math.stat.descriptive.SynchronizedSummaryStatisticsTest::testOverrideGeoMeanWithMathClass", "org.apache.commons.math.stat.descriptive.SynchronizedSummaryStatisticsTest::testOverrideVarianceWithMathClass"]}
+{"project": "Math_44_fixed", "data": ["org.apache.commons.math.ode.events.EventStateTest::testIssue695"]}
+{"project": "Math_45_fixed", "data": ["org.apache.commons.math.linear.OpenMapRealMatrixTest::testMath679"]}
+{"project": "Math_46_fixed", "data": ["org.apache.commons.math.complex.ComplexTest::testAtanI", "org.apache.commons.math.complex.ComplexTest::testDivideZero"]}
+{"project": "Math_47_fixed", "data": ["org.apache.commons.math.complex.ComplexTest::testAtanI", "org.apache.commons.math.complex.ComplexTest::testDivideZero"]}
+{"project": "Math_48_fixed", "data": ["org.apache.commons.math.analysis.solvers.RegulaFalsiSolverTest::testIssue631"]}
+{"project": "Math_49_fixed", "data": ["org.apache.commons.math.linear.SparseRealVectorTest::testConcurrentModification"]}
+{"project": "Math_4_fixed", "data": ["org.apache.commons.math3.geometry.euclidean.threed.SubLineTest::testIntersectionNotIntersecting", "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest::testIntersectionParallel"]}
+{"project": "Math_50_fixed", "data": ["org.apache.commons.math.analysis.solvers.RegulaFalsiSolverTest::testIssue631"]}
+{"project": "Math_51_fixed", "data": ["org.apache.commons.math.analysis.solvers.RegulaFalsiSolverTest::testIssue631"]}
+{"project": "Math_52_fixed", "data": ["org.apache.commons.math.geometry.euclidean.threed.RotationTest::testIssue639"]}
+{"project": "Math_53_fixed", "data": ["org.apache.commons.math.complex.ComplexTest::testAddNaN"]}
+{"project": "Math_54_fixed", "data": ["org.apache.commons.math.dfp.DfpTest::testIssue567"]}
+{"project": "Math_55_fixed", "data": ["org.apache.commons.math.geometry.Vector3DTest::testCrossProductCancellation"]}
+{"project": "Math_56_fixed", "data": ["org.apache.commons.math.util.MultidimensionalCounterTest::testIterationConsistency"]}
+{"project": "Math_57_fixed", "data": ["org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest::testSmallDistances"]}
+{"project": "Math_58_fixed", "data": ["org.apache.commons.math.optimization.fitting.GaussianFitterTest::testMath519"]}
+{"project": "Math_59_fixed", "data": ["org.apache.commons.math.util.FastMathTest::testMinMaxFloat"]}
+{"project": "Math_5_fixed", "data": ["org.apache.commons.math3.complex.ComplexTest::testReciprocalZero"]}
+{"project": "Math_60_fixed", "data": ["org.apache.commons.math.distribution.NormalDistributionTest::testExtremeValues"]}
+{"project": "Math_61_fixed", "data": ["org.apache.commons.math.distribution.PoissonDistributionTest::testMean"]}
+{"project": "Math_62_fixed", "data": ["org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizerTest::testQuinticMin"]}
+{"project": "Math_63_fixed", "data": ["org.apache.commons.math.util.MathUtilsTest::testArrayEquals"]}
+{"project": "Math_64_fixed", "data": ["org.apache.commons.math.optimization.general.MinpackTest::testMinpackJennrichSampson", "org.apache.commons.math.optimization.general.MinpackTest::testMinpackFreudensteinRoth"]}
+{"project": "Math_65_fixed", "data": ["org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest::testCircleFitting"]}
+{"project": "Math_66_fixed", "data": ["org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin", "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testSinMin", "org.apache.commons.math.optimization.univariate.BrentOptimizerTest::testQuinticMinStatistics", "org.apache.commons.math.optimization.univariate.BrentOptimizerTest::testSinMin"]}
+{"project": "Math_67_fixed", "data": ["org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest::testQuinticMin"]}
+{"project": "Math_68_fixed", "data": ["org.apache.commons.math.optimization.general.MinpackTest::testMinpackJennrichSampson", "org.apache.commons.math.optimization.general.MinpackTest::testMinpackFreudensteinRoth"]}
+{"project": "Math_69_fixed", "data": ["org.apache.commons.math.stat.correlation.PearsonsCorrelationTest::testPValueNearZero", "org.apache.commons.math.stat.correlation.SpearmansRankCorrelationTest::testPValueNearZero"]}
+{"project": "Math_6_fixed", "data": ["org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizerTest::testTrivial", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testConstrainedRosen", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testElliRotated", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testEllipse", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testTwoAxes", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testCigar", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testRosen", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testRastrigin", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testDiagonalRosen", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testSsDiffPow", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testMaximize", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testAckley", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testCigTab", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testDiffPow", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testSphere", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testTablet", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest::testCigarWithBoundaries", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizerTest::testSumSinc", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerMultiDirectionalTest::testMaximize1", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerMultiDirectionalTest::testMaximize2", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerMultiDirectionalTest::testMinimize1", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerMultiDirectionalTest::testMinimize2", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerNelderMeadTest::testMaximize1", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerNelderMeadTest::testMaximize2", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerNelderMeadTest::testMinimize1", "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerNelderMeadTest::testMinimize2", "org.apache.commons.math3.optim.nonlinear.vector.jacobian.GaussNewtonOptimizerTest::testGetIterations", "org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest::testGetIterations"]}
+{"project": "Math_70_fixed", "data": ["org.apache.commons.math.analysis.solvers.BisectionSolverTest::testMath369"]}
+{"project": "Math_71_fixed", "data": ["org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegratorTest::testMissedEndEvent", "org.apache.commons.math.ode.nonstiff.DormandPrince853IntegratorTest::testMissedEndEvent"]}
+{"project": "Math_72_fixed", "data": ["org.apache.commons.math.analysis.solvers.BrentSolverTest::testRootEndpoints"]}
+{"project": "Math_73_fixed", "data": ["org.apache.commons.math.analysis.solvers.BrentSolverTest::testBadEndpoints"]}
+{"project": "Math_74_fixed", "data": ["org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest::polynomial"]}
+{"project": "Math_75_fixed", "data": ["org.apache.commons.math.stat.FrequencyTest::testPcts"]}
+{"project": "Math_76_fixed", "data": ["org.apache.commons.math.linear.SingularValueSolverTest::testMath320A", "org.apache.commons.math.linear.SingularValueSolverTest::testMath320B"]}
+{"project": "Math_77_fixed", "data": ["org.apache.commons.math.linear.ArrayRealVectorTest::testBasicFunctions", "org.apache.commons.math.linear.SparseRealVectorTest::testBasicFunctions"]}
+{"project": "Math_78_fixed", "data": ["org.apache.commons.math.ode.events.EventStateTest::closeEvents"]}
+{"project": "Math_79_fixed", "data": ["org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest::testPerformClusterAnalysisDegenerate"]}
+{"project": "Math_7_fixed", "data": ["org.apache.commons.math3.ode.nonstiff.DormandPrince853IntegratorTest::testEventsScheduling"]}
+{"project": "Math_80_fixed", "data": ["org.apache.commons.math.linear.EigenDecompositionImplTest::testMathpbx02"]}
+{"project": "Math_81_fixed", "data": ["org.apache.commons.math.linear.EigenDecompositionImplTest::testMath308"]}
+{"project": "Math_82_fixed", "data": ["org.apache.commons.math.optimization.linear.SimplexSolverTest::testMath288"]}
+{"project": "Math_83_fixed", "data": ["org.apache.commons.math.optimization.linear.SimplexSolverTest::testMath286"]}
+{"project": "Math_84_fixed", "data": ["org.apache.commons.math.optimization.direct.MultiDirectionalTest::testMinimizeMaximize", "org.apache.commons.math.optimization.direct.MultiDirectionalTest::testMath283"]}
+{"project": "Math_85_fixed", "data": ["org.apache.commons.math.distribution.NormalDistributionTest::testMath280"]}
+{"project": "Math_86_fixed", "data": ["org.apache.commons.math.linear.CholeskyDecompositionImplTest::testMath274", "org.apache.commons.math.linear.CholeskyDecompositionImplTest::testNotPositiveDefinite"]}
+{"project": "Math_87_fixed", "data": ["org.apache.commons.math.optimization.linear.SimplexSolverTest::testSingleVariableAndConstraint"]}
+{"project": "Math_88_fixed", "data": ["org.apache.commons.math.optimization.linear.SimplexSolverTest::testMath272"]}
+{"project": "Math_89_fixed", "data": ["org.apache.commons.math.stat.FrequencyTest::testAddNonComparable"]}
+{"project": "Math_8_fixed", "data": ["org.apache.commons.math3.distribution.DiscreteRealDistributionTest::testIssue942"]}
+{"project": "Math_90_fixed", "data": ["org.apache.commons.math.stat.FrequencyTest::testAddNonComparable"]}
+{"project": "Math_91_fixed", "data": ["org.apache.commons.math.fraction.FractionTest::testCompareTo"]}
+{"project": "Math_92_fixed", "data": ["org.apache.commons.math.util.MathUtilsTest::testBinomialCoefficientLarge"]}
+{"project": "Math_93_fixed", "data": ["org.apache.commons.math.util.MathUtilsTest::testFactorial"]}
+{"project": "Math_94_fixed", "data": ["org.apache.commons.math.util.MathUtilsTest::testGcd"]}
+{"project": "Math_95_fixed", "data": ["org.apache.commons.math.distribution.FDistributionTest::testSmallDegreesOfFreedom"]}
+{"project": "Math_96_fixed", "data": ["org.apache.commons.math.complex.ComplexTest::testMath221"]}
+{"project": "Math_97_fixed", "data": ["org.apache.commons.math.analysis.BrentSolverTest::testRootEndpoints"]}
+{"project": "Math_98_fixed", "data": ["org.apache.commons.math.linear.BigMatrixImplTest::testMath209", "org.apache.commons.math.linear.RealMatrixImplTest::testMath209"]}
+{"project": "Math_99_fixed", "data": ["org.apache.commons.math.util.MathUtilsTest::testGcd", "org.apache.commons.math.util.MathUtilsTest::testLcm"]}
+{"project": "Math_9_fixed", "data": ["org.apache.commons.math3.geometry.euclidean.threed.LineTest::testRevert"]}
+{"project": "Mockito_10_fixed", "data": ["org.mockitousage.bugs.DeepStubsWronglyReportsSerializationProblemsTest::should_not_raise_a_mockito_exception_about_serialization_when_accessing_deep_stub"]}
+{"project": "Mockito_11_fixed", "data": ["org.mockito.internal.creation.DelegatingMethodTest::equals_should_return_true_when_equal", "org.mockito.internal.creation.DelegatingMethodTest::equals_should_return_true_when_self"]}
+{"project": "Mockito_12_fixed", "data": ["org.mockito.internal.util.reflection.GenericMasterTest::shouldDealWithNestedGenerics", "org.mockitousage.annotation.CaptorAnnotationBasicTest::shouldUseAnnotatedCaptor", "org.mockitousage.annotation.CaptorAnnotationBasicTest::shouldUseCaptorInOrdinaryWay", "org.mockitousage.annotation.CaptorAnnotationBasicTest::shouldCaptureGenericList", "org.mockitousage.annotation.CaptorAnnotationBasicTest::shouldUseGenericlessAnnotatedCaptor", "org.mockitousage.annotation.CaptorAnnotationTest::shouldScreamWhenWrongTypeForCaptor", "org.mockitousage.annotation.CaptorAnnotationTest::testNormalUsage", "org.mockitousage.annotation.CaptorAnnotationTest::shouldScreamWhenMoreThanOneMockitoAnnotaton", "org.mockitousage.annotation.CaptorAnnotationTest::shouldScreamWhenInitializingCaptorsForNullClass", "org.mockitousage.annotation.CaptorAnnotationTest::shouldLookForAnnotatedCaptorsInSuperClasses"]}
+{"project": "Mockito_13_fixed", "data": ["org.mockitousage.bugs.VerifyingWithAnExtraCallToADifferentMockTest::shouldAllowVerifyingWhenOtherMockCallIsInTheSameLine"]}
+{"project": "Mockito_14_fixed", "data": ["org.mockitousage.bugs.VerifyingWithAnExtraCallToADifferentMockTest::shouldAllowVerifyingWhenOtherMockCallIsInTheSameLine"]}
+{"project": "Mockito_15_fixed", "data": ["org.mockitousage.bugs.InjectMocksShouldTryPropertySettersFirstBeforeFieldAccessTest::shouldInjectUsingPropertySetterIfAvailable"]}
+{"project": "Mockito_16_fixed", "data": ["org.mockitousage.bugs.StubbingMocksThatAreConfiguredToReturnMocksTest::shouldAllowStubbingMocksConfiguredWithRETURNS_MOCKS"]}
+{"project": "Mockito_17_fixed", "data": ["org.mockitousage.basicapi.MocksSerializationTest::shouldBeSerializeAndHaveExtraInterfaces"]}
+{"project": "Mockito_18_fixed", "data": ["org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValuesTest::should_return_empty_iterable"]}
+{"project": "Mockito_19_fixed", "data": ["org.mockitousage.annotation.MockInjectionUsingSetterOrPropertyTest::shouldInsertFieldWithCorrectNameWhenMultipleTypesAvailable"]}
+{"project": "Mockito_1_fixed", "data": ["org.mockito.internal.invocation.InvocationMatcherTest::should_capture_arguments_when_args_count_does_NOT_match", "org.mockito.internal.util.reflection.FieldInitializerTest::can_instantiate_class_with_parameterized_constructor", "org.mockito.internal.util.reflection.ParameterizedConstructorInstantiatorTest::should_report_failure_if_constructor_throws_exception", "org.mockito.internal.util.reflection.ParameterizedConstructorInstantiatorTest::should_fail_if_an_argument_instance_type_do_not_match_wanted_type", "org.mockito.internal.util.reflection.ParameterizedConstructorInstantiatorTest::should_instantiate_type_with_vararg_constructor", "org.mockito.internal.util.reflection.ParameterizedConstructorInstantiatorTest::should_instantiate_type_if_resolver_provide_matching_types", "org.mockitousage.basicapi.ResetTest::shouldRemoveAllStubbing", "org.mockitousage.basicapi.UsingVarargsTest::shouldVerifyWithNullVarArgArray", "org.mockitousage.basicapi.UsingVarargsTest::shouldVerifyWithAnyObject", "org.mockitousage.basicapi.UsingVarargsTest::shouldStubBooleanVarargs", "org.mockitousage.basicapi.UsingVarargsTest::shouldMatchEasilyEmptyVararg", "org.mockitousage.basicapi.UsingVarargsTest::shouldVerifyBooleanVarargs", "org.mockitousage.basicapi.UsingVarargsTest::shouldStubCorrectlyWhenMixedVarargsUsed", "org.mockitousage.basicapi.UsingVarargsTest::shouldStubStringVarargs", "org.mockitousage.basicapi.UsingVarargsTest::shouldStubCorrectlyWhenDoubleStringAndMixedVarargsUsed", "org.mockitousage.basicapi.UsingVarargsTest::shouldVerifyStringVarargs", "org.mockitousage.basicapi.UsingVarargsTest::shouldVerifyObjectVarargs", "org.mockitousage.bugs.VarargsErrorWhenCallingRealMethodTest::shouldNotThrowAnyException", "org.mockitousage.bugs.varargs.VarargsAndAnyObjectPicksUpExtraInvocationsTest::shouldVerifyCorrectlyWithAnyVarargs", "org.mockitousage.bugs.varargs.VarargsAndAnyObjectPicksUpExtraInvocationsTest::shouldVerifyCorrectlyNumberOfInvocationsUsingAnyVarargAndEqualArgument", "org.mockitousage.bugs.varargs.VarargsNotPlayingWithAnyObjectTest::shouldStubUsingAnyVarargs", "org.mockitousage.matchers.VerificationAndStubbingUsingMatchersTest::shouldVerifyUsingMatchers", "org.mockitousage.stubbing.BasicStubbingTest::test_stub_only_not_verifiable", "org.mockitousage.stubbing.BasicStubbingTest::should_evaluate_latest_stubbing_first", "org.mockitousage.stubbing.DeprecatedStubbingTest::shouldEvaluateLatestStubbingFirst", "org.mockitousage.verification.VerificationInOrderMixedWithOrdiraryVerificationTest::shouldUseEqualsToVerifyMethodVarargs"]}
+{"project": "Mockito_20_fixed", "data": ["org.mockitousage.annotation.SpyAnnotationTest::should_spy_inner_class", "org.mockitousage.annotation.SpyAnnotationTest::should_report_when_constructor_is_explosive", "org.mockitousage.constructor.CreatingMocksWithConstructorTest::can_spy_abstract_classes", "org.mockitousage.constructor.CreatingMocksWithConstructorTest::exception_message_when_constructor_not_found", "org.mockitousage.constructor.CreatingMocksWithConstructorTest::can_create_mock_with_constructor", "org.mockitousage.constructor.CreatingMocksWithConstructorTest::can_mock_inner_classes", "org.mockitousage.constructor.CreatingMocksWithConstructorTest::mocking_inner_classes_with_wrong_outer_instance", "org.mockitousage.constructor.CreatingMocksWithConstructorTest::can_mock_abstract_classes"]}
+{"project": "Mockito_21_fixed", "data": ["org.mockito.internal.creation.instance.ConstructorInstantiatorTest::creates_instances_of_inner_classes"]}
+{"project": "Mockito_22_fixed", "data": ["org.mockito.internal.matchers.EqualityTest::shouldKnowIfObjectsAreEqual"]}
+{"project": "Mockito_23_fixed", "data": ["org.mockitousage.stubbing.DeepStubsSerializableTest::should_serialize_and_deserialize_mock_created_by_deep_stubs"]}
+{"project": "Mockito_24_fixed", "data": ["org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValuesTest::should_return_zero_if_mock_is_compared_to_itself", "org.mockitousage.bugs.ShouldMocksCompareToBeConsistentWithEqualsTest::should_compare_to_be_consistent_with_equals_when_comparing_the_same_reference"]}
+{"project": "Mockito_25_fixed", "data": ["org.mockito.internal.stubbing.defaultanswers.ReturnsGenericDeepStubsTest::will_return_default_value_on_non_mockable_nested_generic", "org.mockito.internal.stubbing.defaultanswers.ReturnsGenericDeepStubsTest::can_create_mock_from_multiple_type_variable_bounds_when_return_type_of_parameterized_method_is_a_typevar_that_is_referencing_a_typevar_on_class", "org.mockito.internal.stubbing.defaultanswers.ReturnsGenericDeepStubsTest::can_create_mock_from_return_types_declared_with_a_bounded_wildcard", "org.mockito.internal.stubbing.defaultanswers.ReturnsGenericDeepStubsTest::can_create_mock_from_multiple_type_variable_bounds_when_return_type_of_parameterized_method_is_a_parameterizedtype_that_is_referencing_a_typevar_on_class", "org.mockito.internal.stubbing.defaultanswers.ReturnsGenericDeepStubsTest::generic_deep_mock_frenzy__look_at_these_chained_calls", "org.mockito.internal.stubbing.defaultanswers.ReturnsGenericDeepStubsTest::can_create_mock_from_multiple_type_variable_bounds_when_method_return_type_is_referencing_a_typevar_on_class"]}
+{"project": "Mockito_26_fixed", "data": ["org.mockito.internal.progress.HandyReturnValuesTest::should_default_values_for_primitive", "org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValuesTest::should_return_primitive", "org.mockito.internal.stubbing.defaultanswers.ReturnsMocksTest::should_return_the_usual_default_values_for_primitives", "org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNullsTest::should_return_the_usual_default_values_for_primitives"]}
+{"project": "Mockito_27_fixed", "data": ["org.mockitousage.bugs.ListenersLostOnResetMockTest::listener"]}
+{"project": "Mockito_28_fixed", "data": ["org.mockitousage.bugs.InjectionByTypeShouldFirstLookForExactTypeThenAncestorTest::mock_should_be_injected_once_and_in_the_best_matching_type"]}
+{"project": "Mockito_29_fixed", "data": ["org.mockitousage.bugs.NPEWithCertainMatchersTest::shouldNotThrowNPEWhenNullPassedToSame"]}
+{"project": "Mockito_2_fixed", "data": ["org.mockito.internal.util.TimerTest::should_throw_friendly_reminder_exception_when_duration_is_negative", "org.mockito.verification.NegativeDurationTest::should_throw_exception_when_duration_is_negative_for_timeout_method", "org.mockito.verification.NegativeDurationTest::should_throw_exception_when_duration_is_negative_for_after_method"]}
+{"project": "Mockito_30_fixed", "data": ["org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNullsTest::shouldPrintTheParametersOnSmartNullPointerExceptionMessage"]}
+{"project": "Mockito_31_fixed", "data": ["org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNullsTest::shouldPrintTheParametersWhenCallingAMethodWithArgs"]}
+{"project": "Mockito_32_fixed", "data": ["org.mockitousage.bugs.SpyShouldHaveNiceNameTest::shouldPrintNiceName"]}
+{"project": "Mockito_33_fixed", "data": ["org.mockitousage.bugs.InheritedGenericsPolimorphicCallTest::shouldStubbingWork", "org.mockitousage.bugs.InheritedGenericsPolimorphicCallTest::shouldVerificationWorks"]}
+{"project": "Mockito_34_fixed", "data": ["org.mockito.internal.invocation.InvocationMatcherTest::shouldMatchCaptureArgumentsWhenArgsCountDoesNOTMatch", "org.mockitousage.basicapi.UsingVarargsTest::shouldMatchEasilyEmptyVararg"]}
+{"project": "Mockito_35_fixed", "data": ["org.mockitousage.bugs.NPEWithCertainMatchersTest::shouldNotThrowNPEWhenIntPassed", "org.mockitousage.bugs.NPEWithCertainMatchersTest::shouldNotThrowNPEWhenIntegerPassed", "org.mockitousage.bugs.NPEWithCertainMatchersTest::shouldNotThrowNPEWhenIntegerPassedToEq", "org.mockitousage.bugs.NPEWithCertainMatchersTest::shouldNotThrowNPEWhenIntegerPassedToSame"]}
+{"project": "Mockito_36_fixed", "data": ["org.mockito.internal.invocation.InvocationTest::shouldScreamWhenCallingRealMethodOnInterface", "org.mockitousage.spies.SpyingOnInterfacesTest::shouldFailInRuntimeWhenCallingRealMethodOnInterface"]}
+{"project": "Mockito_37_fixed", "data": ["org.mockito.internal.stubbing.answers.AnswersValidatorTest::shouldFailWhenCallingRealMethodOnIterface", "org.mockitousage.spies.SpyingOnInterfacesTest::shouldFailFastWhenCallingRealMethodOnInterface"]}
+{"project": "Mockito_38_fixed", "data": ["org.mockito.internal.verification.argumentmatching.ArgumentMatchingToolTest::shouldWorkFineWhenGivenArgIsNull", "org.mockitousage.bugs.ActualInvocationHasNullArgumentNPEBugTest::shouldAllowPassingNullArgument"]}
+{"project": "Mockito_3_fixed", "data": ["org.mockito.internal.invocation.InvocationMatcherTest::should_capture_varargs_as_vararg", "org.mockitousage.bugs.varargs.VarargsAndAnyObjectPicksUpExtraInvocationsTest::shouldVerifyCorrectlyNumberOfInvocationsWithVarargs", "org.mockitousage.bugs.varargs.VarargsNotPlayingWithAnyObjectTest::shouldMatchAnyVararg", "org.mockitousage.matchers.CapturingArgumentsTest::should_capture_all_vararg", "org.mockitousage.matchers.CapturingArgumentsTest::captures_correctly_when_captor_used_multiple_times", "org.mockitousage.matchers.CapturingArgumentsTest::should_capture_vararg", "org.mockitousage.matchers.CapturingArgumentsTest::captures_correctly_when_captor_used_on_pure_vararg_method", "org.mockitousage.matchers.CapturingArgumentsTest::should_capture_byte_vararg_by_creating_captor_with_primitive_wrapper", "org.mockitousage.matchers.CapturingArgumentsTest::should_capture_byte_vararg_by_creating_captor_with_primitive"]}
+{"project": "Mockito_4_fixed", "data": ["org.mockito.exceptions.ReporterTest::can_use_print_mock_name_even_when_mock_bogus_default_answer_and_when_reporting_no_more_interaction_wanted_in_order", "org.mockito.exceptions.ReporterTest::can_use_print_mock_name_even_when_mock_bogus_default_answer_and_when_reporting_injection_failure", "org.mockito.exceptions.ReporterTest::can_use_mock_name_even_when_mock_bogus_default_answer_and_when_reporting_no_more_interaction_wanted", "org.mockitousage.bugs.ClassCastExOnVerifyZeroInteractionsTest::should_not_throw_a_ClassCastException"]}
+{"project": "Mockito_5_fixed", "data": ["org.mockitointegration.NoJUnitDependenciesTest::pure_mockito_should_not_depend_JUnit"]}
+{"project": "Mockito_6_fixed", "data": ["org.mockitousage.matchers.AnyXMatchersAcceptNullsTest::shouldNotAcceptNullInAllAnyPrimitiveWrapperMatchers", "org.mockitousage.matchers.AnyXMatchersAcceptNullsTest::shouldNotAcceptNullInAnyXMatchers", "org.mockitousage.matchers.MatchersTest::anyStringMatcher", "org.mockitousage.matchers.NewMatchersTest::shouldAllowAnyCollection", "org.mockitousage.matchers.NewMatchersTest::shouldAllowAnyList", "org.mockitousage.matchers.NewMatchersTest::shouldAllowAnyMap", "org.mockitousage.matchers.NewMatchersTest::shouldAllowAnySet"]}
+{"project": "Mockito_7_fixed", "data": ["org.mockitousage.bugs.deepstubs.DeepStubFailingWhenGenricNestedAsRawTypeTest::discoverDeepMockingOfGenerics"]}
+{"project": "Mockito_8_fixed", "data": ["org.mockito.internal.util.reflection.GenericMetadataSupportTest::typeVariable_of_self_type"]}
+{"project": "Mockito_9_fixed", "data": ["org.mockitousage.constructor.CreatingMocksWithConstructorTest::abstractMethodStubbed", "org.mockitousage.constructor.CreatingMocksWithConstructorTest::testCallsRealInterfaceMethod", "org.mockitousage.constructor.CreatingMocksWithConstructorTest::abstractMethodReturnsDefault"]}
+{"project": "test.txt", "data": []}
+{"project": "Time_10_fixed", "data": ["org.joda.time.TestDays::testFactory_daysBetween_RPartial_MonthDay", "org.joda.time.TestMonths::testFactory_monthsBetween_RPartial_MonthDay"]}
+{"project": "Time_11_fixed", "data": ["org.joda.time.tz.TestCompiler::testDateTimeZoneBuilder"]}
+{"project": "Time_12_fixed", "data": ["org.joda.time.TestLocalDateTime_Constructors::testFactory_fromDateFields_beforeYearZero1", "org.joda.time.TestLocalDateTime_Constructors::testFactory_fromDateFields_beforeYearZero3", "org.joda.time.TestLocalDateTime_Constructors::testFactory_fromCalendarFields_beforeYearZero1", "org.joda.time.TestLocalDateTime_Constructors::testFactory_fromCalendarFields_beforeYearZero3", "org.joda.time.TestLocalDate_Constructors::testFactory_fromDateFields_beforeYearZero1", "org.joda.time.TestLocalDate_Constructors::testFactory_fromDateFields_beforeYearZero3", "org.joda.time.TestLocalDate_Constructors::testFactory_fromCalendarFields_beforeYearZero1", "org.joda.time.TestLocalDate_Constructors::testFactory_fromCalendarFields_beforeYearZero3"]}
+{"project": "Time_13_fixed", "data": ["org.joda.time.format.TestISOPeriodFormat::testFormatStandard_negative"]}
+{"project": "Time_14_fixed", "data": ["org.joda.time.TestMonthDay_Basics::testPlusMonths_int_negativeFromLeap", "org.joda.time.TestMonthDay_Basics::testMinusDays_int_negativeFromLeap", "org.joda.time.TestMonthDay_Basics::testPlusMonths_int_fromLeap", "org.joda.time.TestMonthDay_Basics::testPlusMonths_int_negativeEndOfMonthAdjust", "org.joda.time.TestMonthDay_Basics::testMinusMonths_int_endOfMonthAdjust", "org.joda.time.TestMonthDay_Basics::testMinusMonths_int_negativeFromLeap", "org.joda.time.TestMonthDay_Basics::testMinusMonths_int_fromLeap", "org.joda.time.TestMonthDay_Basics::testPlusDays_int_fromLeap"]}
+{"project": "Time_15_fixed", "data": ["org.joda.time.field.TestFieldUtils::testSafeMultiplyLongInt"]}
+{"project": "Time_16_fixed", "data": ["org.joda.time.format.TestDateTimeFormatter::testParseInto_monthOnly_baseStartYear", "org.joda.time.format.TestDateTimeFormatter::testParseInto_monthOnly_parseStartYear", "org.joda.time.format.TestDateTimeFormatter::testParseInto_monthOnly_baseEndYear", "org.joda.time.format.TestDateTimeFormatter::testParseInto_monthOnly", "org.joda.time.format.TestDateTimeFormatter::testParseInto_monthDay_withDefaultYear_feb29", "org.joda.time.format.TestDateTimeFormatter::testParseInto_monthDay_feb29", "org.joda.time.format.TestDateTimeFormatter::testParseInto_monthOnly_parseEndYear"]}
+{"project": "Time_17_fixed", "data": ["org.joda.time.TestDateTimeZoneCutover::testBug3476684_adjustOffset"]}
+{"project": "Time_18_fixed", "data": ["org.joda.time.chrono.TestGJChronology::testLeapYearRulesConstruction"]}
+{"project": "Time_19_fixed", "data": ["org.joda.time.TestDateTimeZoneCutover::testDateTimeCreation_london"]}
+{"project": "Time_1_fixed", "data": ["org.joda.time.TestPartial_Constructors::testConstructorEx7_TypeArray_intArray"]}
+{"project": "Time_20_fixed", "data": ["org.joda.time.format.TestDateTimeFormatterBuilder::test_printParseZoneDawsonCreek"]}
+{"project": "Time_22_fixed", "data": ["org.joda.time.TestDuration_Basics::testToPeriod_fixedZone", "org.joda.time.TestPeriod_Constructors::testConstructor_long_fixedZone"]}
+{"project": "Time_23_fixed", "data": ["org.joda.time.TestDateTimeZone::testForID_String_old"]}
+{"project": "Time_24_fixed", "data": ["org.joda.time.format.TestDateTimeFormatter::testParseLocalDate_weekyear_month_week_2010", "org.joda.time.format.TestDateTimeFormatter::testParseLocalDate_weekyear_month_week_2011", "org.joda.time.format.TestDateTimeFormatter::testParseLocalDate_weekyear_month_week_2012", "org.joda.time.format.TestDateTimeFormatter::testParseLocalDate_year_month_week_2010", "org.joda.time.format.TestDateTimeFormatter::testParseLocalDate_year_month_week_2011", "org.joda.time.format.TestDateTimeFormatter::testParseLocalDate_year_month_week_2012", "org.joda.time.format.TestDateTimeFormatter::testParseLocalDate_year_month_week_2016"]}
+{"project": "Time_25_fixed", "data": ["org.joda.time.TestDateTimeZoneCutover::test_DateTime_constructor_Moscow_Autumn", "org.joda.time.TestDateTimeZoneCutover::test_getOffsetFromLocal_Moscow_Autumn_overlap_mins", "org.joda.time.TestDateTimeZoneCutover::test_getOffsetFromLocal_Moscow_Autumn"]}
+{"project": "Time_26_fixed", "data": ["org.joda.time.TestDateTimeZoneCutover::testWithSecondOfMinuteInDstChange", "org.joda.time.TestDateTimeZoneCutover::testWithMinuteOfHourInDstChange", "org.joda.time.TestDateTimeZoneCutover::testWithMinuteOfHourInDstChange_mockZone", "org.joda.time.TestDateTimeZoneCutover::testBug2182444_usCentral", "org.joda.time.TestDateTimeZoneCutover::testWithMillisOfSecondInDstChange_Paris_summer", "org.joda.time.TestDateTimeZoneCutover::testWithHourOfDayInDstChange", "org.joda.time.TestDateTimeZoneCutover::testWithMillisOfSecondInDstChange_NewYork_winter", "org.joda.time.TestDateTimeZoneCutover::testBug2182444_ausNSW"]}
+{"project": "Time_27_fixed", "data": ["org.joda.time.format.TestPeriodFormatterBuilder::testBug2495455"]}
+{"project": "Time_2_fixed", "data": ["org.joda.time.TestPartial_Basics::testWith_baseAndArgHaveNoRange"]}
+{"project": "Time_3_fixed", "data": ["org.joda.time.TestMutableDateTime_Adds::testAddYears_int_dstOverlapWinter_addZero", "org.joda.time.TestMutableDateTime_Adds::testAddDays_int_dstOverlapWinter_addZero", "org.joda.time.TestMutableDateTime_Adds::testAddWeeks_int_dstOverlapWinter_addZero", "org.joda.time.TestMutableDateTime_Adds::testAdd_DurationFieldType_int_dstOverlapWinter_addZero", "org.joda.time.TestMutableDateTime_Adds::testAddMonths_int_dstOverlapWinter_addZero"]}
+{"project": "Time_4_fixed", "data": ["org.joda.time.TestPartial_Basics::testWith3"]}
+{"project": "Time_5_fixed", "data": ["org.joda.time.TestPe riod_Basics::testNormalizedStandard_periodType_months1", "org.joda.time.TestPeriod_Basics::testNormalizedStandard_periodType_months2", "org.joda.time.TestPeriod_Basics::testNormalizedStandard_periodType_monthsWeeks"]}
+{"project": "Time_6_fixed", "data": ["org.joda.time.chrono.TestGJDate::test_cutoverPreZero", "org.joda.time.chrono.TestGJDate::test_plusWeekyears_positiveToNegative_crossCutover", "org.joda.time.chrono.TestGJDate::test_plusYears_positiveToZero_crossCutover", "org.joda.time.chrono.TestGJDate::test_plusYears_positiveToNegative_crossCutover", "org.joda.time.chrono.TestGJDate::test_plusWeekyears_positiveToZero_crossCutover"]}
+{"project": "Time_7_fixed", "data": ["org.joda.time.format.TestDateTimeFormatter::testParseInto_monthDay_feb29_newYork_startOfYear", "org.joda.time.format.TestDateTimeFormatter::testParseInto_monthDay_feb29_tokyo_endOfYear"]}
+{"project": "Time_8_fixed", "data": ["org.joda.time.TestDateTimeZone::testForOffsetHoursMinutes_int_int"]}
+{"project": "Time_9_fixed", "data": ["org.joda.time.TestDateTimeZone::testForOffsetHoursMinutes_int_int"]}

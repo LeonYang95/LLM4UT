@@ -1,0 +1,19 @@
+{
+    "cli": "**/*Test.java",
+    "jacksondatabind": "**/*Test.java",
+    "codec": "**/*Test.java",
+    "closure": "**/*Test.java",
+    "time": "**/Test*.java",
+    "gson": "**/*Test.java",
+    "csv": "**/*Test.java",
+    "compress": "**/*Test.java",
+    "math": "**/*Test.java",
+    "lang": "**/*Test.java",
+    "jacksonxml": "**/*Test.java",
+    "jsoup": "**/*Test.java",
+    "chart": "**/*Tests.java",
+    "collections": "**/*Test.java",
+    "jacksoncore": "**/*Test.java",
+    "mockito": "**/*Test.java",
+    "jxpath": "**/*Test.java"
+}

@@ -1,0 +1,5036 @@
+{
+    "closure_29": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_15": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_114": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_100": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_128": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_129": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_101": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_115": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_14": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_28": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_16": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_103": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_117": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_116": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_102": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_17": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_13": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_106": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_112": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_113": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_107": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_12": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_10": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_38": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_139": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_111": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_105": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_104": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_110": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_138": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_39": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_11": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_76": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_62": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_89": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_163": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_162": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_88": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_176": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_63": {
+        "test": "/test",
+        "test_class": "/build/test",
+        "src": "/src",
+        "src_class": "/build/classes"
+    },
+    "closure_77": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_49": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_61": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_75": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_160": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_174": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_148": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_149": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_175": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_161": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_74": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_60": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_48": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_64": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_70": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_58": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_159": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_165": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_171": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_170": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_164": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_158": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_59": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_71": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_65": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_73": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_67": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_9": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_172": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_98": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_166": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_99": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_167": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_173": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_8": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_66": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_72": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_57": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_5": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_43": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_156": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_142": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_94": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_80": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_81": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_95": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_143": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_157": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_42": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_56": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_4": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_68": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_40": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_6": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_54": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_141": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_155": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_83": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_169": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_97": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_168": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_96": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_82": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_154": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_140": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_7": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_55": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_41": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_69": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_45": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_51": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_3": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_79": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_86": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_92": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_144": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_150": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_151": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_145": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_93": {
+        "test": "/test",
+        "test_class": "/build/test",
+        "src": "/src",
+        "src_class": "/build/classes"
+    },
+    "closure_87": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_78": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_50": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_2": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_44": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_52": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_46": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_91": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_85": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_153": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_147": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_146": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_152": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_84": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_90": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_47": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_1": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_53": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_34": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_20": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_135": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_121": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_109": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_108": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_120": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_134": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_21": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_35": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_23": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_37": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_122": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_136": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_137": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_123": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_36": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_22": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_26": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_32": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_127": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_133": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_132": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_126": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_33": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_27": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_31": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_25": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_19": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_118": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_130": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_124": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_125": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_131": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_119": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_18": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_24": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "closure_30": {
+        "test": "test",
+        "test_class": "build/test",
+        "src": "src",
+        "src_class": "build/classes"
+    },
+    "compress_29": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_15": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_14": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_28": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_16": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_17": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_13": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_12": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_10": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_38": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_39": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_11": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_9": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_8": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_5": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_43": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_42": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_4": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_40": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_6": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_7": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_41": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_45": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_3": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_2": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_44": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_46": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_47": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_1": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_34": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_20": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_21": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_35": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_23": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_37": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_36": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_22": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_26": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_32": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_33": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_27": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_31": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_25": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_19": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_18": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_24": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "compress_30": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_15": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_14": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_16": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_17": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_13": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_12": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_10": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_11": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_9": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_8": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_5": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_4": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_6": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_7": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_3": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_2": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_1": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_20": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_21": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_23": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_22": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_26": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_25": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_19": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_18": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksoncore_24": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_29": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_15": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_100": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_101": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_14": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_28": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_16": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_103": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_102": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_17": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_13": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_106": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_112": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_107": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_12": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_10": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_38": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_111": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_105": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_104": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_110": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_39": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_11": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_76": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_62": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_89": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_88": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_63": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_77": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_49": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_61": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_75": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_74": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_60": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_48": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_64": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_70": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_58": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_59": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_71": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_65": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_73": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_67": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_9": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_98": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_99": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_8": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_66": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_72": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_57": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_5": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_43": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_94": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_80": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_81": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_95": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_42": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_56": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_4": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_68": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_40": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_6": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_54": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_83": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_97": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_96": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_82": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_7": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_55": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_41": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_69": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_45": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_51": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_3": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_79": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_86": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_92": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_93": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_87": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_78": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_50": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_2": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_44": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_52": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_46": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_91": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_85": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_84": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_90": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_47": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_1": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_53": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_34": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_20": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_109": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_108": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_21": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_35": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_23": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_37": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_36": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_22": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_26": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_32": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_33": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_27": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_31": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_25": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_19": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_18": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_24": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksondatabind_30": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_15": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_14": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_16": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_17": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_13": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_12": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_10": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_11": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_9": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_8": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_5": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_4": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_6": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_7": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_3": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_2": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_1": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "gson_18": {
+        "test": "gson/src/test/java",
+        "test_class": "target/test-classes",
+        "src": "gson/src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksonxml_5": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksonxml_4": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksonxml_6": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksonxml_3": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksonxml_2": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jacksonxml_1": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "codec_15": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "codec_14": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "codec_16": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "codec_17": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "codec_13": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "codec_12": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "codec_10": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_11": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "codec_9": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_8": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_5": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_4": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_6": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_7": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_3": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_2": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_1": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "codec_18": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "chart_15": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_14": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_16": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_17": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_13": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_12": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_10": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_11": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_9": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_8": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_5": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_4": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_6": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_7": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_3": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_2": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_1": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_20": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_21": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_23": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_22": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_26": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_25": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_19": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_18": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "chart_24": {
+        "test": "tests",
+        "test_class": "build-tests",
+        "src": "source",
+        "src_class": "build"
+    },
+    "cli_29": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_15": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_14": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_28": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_16": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_17": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_13": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_12": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_10": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_38": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_39": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_11": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_9": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_8": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_5": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_4": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_40": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_7": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_3": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_2": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_1": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_34": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_20": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_21": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_35": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_23": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_37": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_36": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_22": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_26": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_32": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_33": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_27": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_31": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "cli_25": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_19": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_18": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_24": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "cli_30": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_29": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_15": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_100": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_101": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_14": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_28": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_16": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_103": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_102": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_17": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_13": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_106": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_12": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_10": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_38": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_105": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_104": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_39": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_11": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_76": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_62": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_89": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_88": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_63": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_77": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_49": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_61": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_75": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_74": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_60": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_48": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_64": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_70": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_58": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_59": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_71": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_65": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_73": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_67": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_9": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_98": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_99": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_8": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_66": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_72": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_57": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_5": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_43": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_94": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_80": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_81": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_95": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_42": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_56": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_4": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_68": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_40": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_6": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_54": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_83": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_97": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_96": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_82": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_7": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_55": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_41": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_69": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_45": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_51": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_3": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_79": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_86": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_92": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_93": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_87": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_78": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_50": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_2": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_44": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_52": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_46": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_91": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_85": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_84": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_90": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "math_47": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_1": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_53": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_34": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_20": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_21": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_35": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_23": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_37": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_36": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_22": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_26": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_32": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_33": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_27": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_31": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_25": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_19": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_18": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_24": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "math_30": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_15": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_14": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_16": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_17": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_13": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_12": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_10": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_11": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_9": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_8": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_5": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_4": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_6": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_7": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_3": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_2": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_1": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "time_20": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_21": {
+        "test": "/src/test/java",
+        "test_class": "/build/tests",
+        "src": "/src/main/java",
+        "src_class": "/build/classes"
+    },
+    "time_23": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_22": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_26": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_27": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_25": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_19": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_18": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "time_24": {
+        "test": "src/test/java",
+        "test_class": "build/tests",
+        "src": "src/main/java",
+        "src_class": "build/classes"
+    },
+    "lang_29": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_15": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_14": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_28": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_16": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_17": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_13": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_12": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_10": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_38": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_39": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_11": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_62": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_63": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_49": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_61": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_60": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_48": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_64": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_58": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_59": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_65": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_9": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_8": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_57": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_5": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_43": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_42": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_56": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_4": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_40": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_6": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_54": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_7": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_55": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_41": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_45": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_51": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_3": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_50": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_2": {
+        "test": "/src/test/java",
+        "test_class": "/target/tests",
+        "src": "/src/main/java",
+        "src_class": "/target/classes"
+    },
+    "lang_44": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_52": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_46": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_47": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_1": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_53": {
+        "test": "src/test",
+        "test_class": "target/tests",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_34": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_20": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_21": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_35": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_23": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_37": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_36": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "lang_22": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_26": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_32": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_33": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_27": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_31": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_25": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_19": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_18": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_24": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "lang_30": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_29": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_15": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_14": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_28": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_16": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_17": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_13": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_12": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_10": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_38": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_39": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_11": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_76": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_62": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_89": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_88": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_63": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_77": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_49": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_61": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_75": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_74": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_60": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_48": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_64": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_70": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_58": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_59": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_71": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_65": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_73": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_67": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_9": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_8": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_66": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_72": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_57": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_5": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_43": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_80": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_81": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_42": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_56": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_4": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_68": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_40": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_6": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_54": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_83": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_82": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_7": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_55": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_41": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_69": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_45": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_51": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_3": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_79": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_86": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_92": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_93": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_87": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_78": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_50": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_2": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_44": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_52": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_46": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_91": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_85": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_84": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_90": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_47": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_1": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_53": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_34": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_20": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_21": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_35": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_23": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_37": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_36": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_22": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_26": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_32": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_33": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_27": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_31": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_25": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_19": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_18": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_24": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jsoup_30": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_15": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_14": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_16": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_13": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_12": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_10": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_11": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_9": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_8": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_5": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_4": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_6": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_7": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_3": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_2": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "csv_1": {
+        "test": "src/test/java",
+        "test_class": "target/test-classes",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_15": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_14": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_16": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_17": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_13": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_12": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_10": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_11": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_9": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_8": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_5": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_4": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_6": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_7": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_3": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_2": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_1": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_20": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_21": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_22": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_19": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "jxpath_18": {
+        "test": "src/test",
+        "test_class": "target/test-classes",
+        "src": "src/java",
+        "src_class": "target/classes"
+    },
+    "mockito_29": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_15": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_14": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_28": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_16": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_17": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_13": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_12": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_10": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_38": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_11": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_9": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_8": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_5": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_4": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_6": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_7": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_3": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_2": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_1": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_34": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_20": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_21": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_35": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_23": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_37": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_36": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_22": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_26": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_32": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_33": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_27": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_31": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_25": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_19": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_18": {
+        "test": "test",
+        "test_class": "build/classes/test",
+        "src": "src",
+        "src_class": "build/classes/main"
+    },
+    "mockito_24": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "mockito_30": {
+        "test": "test",
+        "test_class": "target/test-classes",
+        "src": "src",
+        "src_class": "target/classes"
+    },
+    "collections_28": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "collections_26": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "collections_27": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    },
+    "collections_25": {
+        "test": "src/test/java",
+        "test_class": "target/tests",
+        "src": "src/main/java",
+        "src_class": "target/classes"
+    }
+}
