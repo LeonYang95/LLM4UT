@@ -236,26 +236,10 @@ public class DefaultKeyedValues2DTest{
 
 ## Illustration Examples of Reasons of Undetected Defects.
 
-<style>
-  .container {
-    display: flex;
-    width: 100%;
-  }
-  .column {
-    flex: 1;
-    padding: 10px;
-    box-sizing: border-box;
-  }
-</style>
-
-
-
 
 
 ### 1) Insufficient Test Coverage
 
-<div class="container">
-  <div class="column">
 
 #### Code diff
 
@@ -283,16 +267,7 @@ public void acceptJsonFormatVisitor(JsonFormatVisitorWrapper visitor, JavaType t
 ```
 
 
-#### Explanation
 
-The generated unit test does not **cover** the branch `h == BigDecimal.class`
-
-the To detect this bug, the unit test should construct the `NumberSerializer` object as the `BigDecimal.class`.
-
-
-
-  </div>
-  <div class="column">
 
 
 
@@ -334,15 +309,20 @@ private JsonFormatVisitorWrapper visitor;
 ```
 
 
+#### Explanation
 
-</div>
-</div>
+The generated unit test does not **cover** the branch `h == BigDecimal.class`
+
+the To detect this bug, the unit test should construct the `NumberSerializer` object as the `BigDecimal.class`.
+
+
+
+
 
 
 ### 2) Missing Specific Inputs
 
-<div class="container">
-  <div class="column">
+
 
 #### Code diff
 
@@ -423,8 +403,7 @@ public static UnsafeAllocator create() {
 }
 
 ```
-  </div>
-  <div class="column">
+
 
 
 #### Unit Test
@@ -458,15 +437,12 @@ Although the unit test covers the buggy code lines, it does not detect the bug b
 
 To detect this bug, the **input** to `allocator.newInstance()` in the unit test should be the `Interface` class, not just the `null` class provided in the generated unit test.
 
-</div>
-</div>
 
 
 
 ### 3) Improper Assertion
 
-<div class="container">
-  <div class="column">
+
 
 #### Code diff
 
@@ -502,12 +478,8 @@ public TimeSeries createCopy(int start, int end)
     }
 ```
 
-#### Explanation
 
-To detect this bug, the unit test should set up **assertions** to check the values of `copy.minY` and `copy.maxY`.
 
-  </div>
-  <div class="column">
 
 
 #### Unit Test
@@ -584,8 +556,9 @@ public class LLMGeneratedTests {
     }
 }
 ```
-  </div>
-</div>
+#### Explanation
+
+To detect this bug, the unit test should set up **assertions** to check the values of `copy.minY` and `copy.maxY`.
 
 
 
