@@ -22,7 +22,7 @@ LLM4UT
 
 1. To fully run our evaluation, please first follow the setups from Defects4J benchmark, and make sure it works fine.
 2. Checkout **ALL** defects4j projects, including both fixed version and buggy version. Please make sure the structure are `{Bug_id}/fixed` and `{Bug_id}/buggy` for the fixed version and buggy version respectively. 
-The folder name tha contains all the projects of defects4j bugs is `d4j_project_base`, which will be used later in configuration.
+The folder name tha contains all the projects of defects4j bugs is `d4j_proj_base`, which will be used later in configuration.
 3. Please follow the `requirements.txt` file for python package installation.
 
 ## Execution 
@@ -34,6 +34,24 @@ The folder name tha contains all the projects of defects4j bugs is `d4j_project_
 6. Run scripts under `rq1/analyze` to obtain statistical analysis results.
 
 ## Details about `Configuration.py`
+Here are the meanings of the settings in `configuration_example.py`
+
+```python
+d4j_home = "/path/to/defects4j"
+d4j_proj_base = f"{d4j_home}/d4j_projects" # This is where you placed ALL defects4j projects
+output_dir = 'data/rq1/results_1220' # Relative Path is fine. we will automatically insert the path to LLM4UT project.
+python_bin = '/path/to/your/python/enivronment/bin/python' 
+dej_command = f'{d4j_home}/framework/bin/defects4j'
+
+projects = [...] # the defects4j projects that you wish to run
+target_models = [...] # the models you wish to test, the results will be placed under the folder with the model names.
+
+formats = [...] # comment for Code-Language-Description and natural for Natural-Language-Description. Details can be found in running_examples.
+
+strategies = [...]
+
+ablations = [...] # Controls which the code features you wish to use.
+```
 
 
 
