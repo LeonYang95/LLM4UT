@@ -28,10 +28,11 @@ The folder name tha contains all the projects of defects4j bugs is `d4j_proj_bas
 ## Execution 
 1. Using the scripts in `rq1` folder (e.g., `generate_prompts.py`) to generate prompt for LLMs.
 2. Using the genrated prompts and getting responses. This was done outside of the project, using an inference script, which simply feeds LLMs with the prompt and gathers the results. Please make sure the key in the json objects that holds the LLMs' responses is `completion`. Or you may need to change code accordingly.
-3. Create a directory under `data` to hold the generation results.
-4. Please follow `configuration_example.py` to create your own configuration file, e.g., `configuration.py`.
-5. Make sure you have the proper settings, and then, just run `rq1/rq1_starter.py`, the results will be saved according to your configuration.
-6. Run scripts under `rq1/analyze` to obtain statistical analysis results.
+   **Here we listed all prompt generation scripts used in our evaluation. All of our experiments after model inference are the same. Therefore, to replay our experiments, one should use different prpomt and all the evaluation process are the same.**
+4. Create a directory under `data` to hold the generation results.
+5. Please follow `configuration_example.py` to create your own configuration file, e.g., `configuration.py`.
+6. Make sure you have the proper settings, and then, just run `rq1/rq1_starter.py`, the results will be saved according to your configuration.
+7. Run scripts under `rq1/analyze` to obtain statistical analysis results.
 
 ## Details about `Configuration.py`
 Here are the meanings of the settings in `configuration_example.py`
