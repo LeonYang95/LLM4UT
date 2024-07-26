@@ -21,7 +21,7 @@ LLM4UT
 ## Setup
 
 1. To fully run our evaluation, please first follow the setups from Defects4J benchmark, and make sure it works fine.
-2. Download Junit 4, Mockito 5, powermock 2, hamcreset 2.1 and other necessary dependency jar file, and put it into `/path/to/defects4j/framework/projects/lib` to make sure that the unit tests can compile under junit4.
+2. Download Junit 4, Mockito 5, powermock 2, hamcreset 2.1 and other necessary dependency jar file, and put it into `/path/to/defects4j/framework/projects/lib` to make sure that the unit tests can compile under junit4. In the futurem, we will publish a docker image that contains complete runtime environment.
 3. Checkout **ALL** defects4j projects, including both fixed version and buggy version, roughly 1,600 checkouts. Please make sure the structure is `{Bug_id}/fixed` and `{Bug_id}/buggy` for the fixed version and buggy version respectively. 
 The folder name tha contains all the projects of defects4j bugs is `d4j_proj_base`, which will be used later in configuration.
 4. Please follow the `requirements.txt` file for python package installation.
