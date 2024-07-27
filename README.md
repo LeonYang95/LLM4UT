@@ -2,6 +2,7 @@
 
 This is the artifact of our submission in ASE, including the prompt construction code and the evaluation code.
 
+**NOTE**: The illustration examples of our research questions are listed in `running_example`.
 
 ## Structure
 ```
