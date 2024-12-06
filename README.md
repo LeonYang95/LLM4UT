@@ -1,6 +1,8 @@
 # LLM4UT
 
-This is the artifact of our submission in ASE, including the prompt construction code and the evaluation code.
+This is the artifact of our submission in ASE, including the prompt construction code and the evaluation code. 
+
+⭐ We published a new project [UTGen_LLM](https://github.com/LeonYang95/UTGen_LLM) for more details about invoking the LLM to generate unit tests.
 
 ⭐**NOTE: The illustration examples of our research questions are listed in `running_example`.**
 
