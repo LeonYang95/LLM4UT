@@ -14,7 +14,7 @@ from tqdm import tqdm
 from collections import Counter, defaultdict
 
 from utils.exceptions import *
-from data.configuration import d4j_proj_base, code_base, d4j_command
+from configuration import d4j_proj_base, code_base, d4j_command
 from utils.java_parser import (
     parse_import_stmts_from_file_code,
     parse_methods_from_class_node,

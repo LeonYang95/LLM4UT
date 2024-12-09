@@ -1,7 +1,7 @@
 import re
 import xml.etree.ElementTree as ET
 import os
-from data.configuration import d4j_home, proxy_host, proxy_port, proxy_username, proxy_password
+from configuration import d4j_home, proxy_host, proxy_port, proxy_username, proxy_password
 
 xmls = {
     'Chart': 'maven-jfreechart-project.xml',

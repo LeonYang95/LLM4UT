@@ -1,8 +1,8 @@
 from utils.cal_rate import *
-from utils.dependency_analyzer import add_dependencies
+from utils.DependencyUtils import add_dependencies
 from utils.java_parser import has_branch
 from utils.output_analyzer import *
-from data import configuration
+import configuration
 from data.extract_all_methods_and_tests import find_all_method_signatures_in_javap
 import shutil
 

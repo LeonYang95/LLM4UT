@@ -5,7 +5,7 @@ from datetime import datetime
 sys.path.extend(['.', '..'])
 import json
 import pandas
-from data.configuration import output_base_dir, code_base
+from configuration import output_base_dir, code_base
 
 
 def report_bug_detection_results(in_file):
@@ -36,7 +36,7 @@ def report_bug_detection_results(in_file):
 
 
 if __name__ == '__main__':
-    from data.configuration import target_models, projects, ablations, strategies, formats
+    from configuration import target_models, projects, ablations, strategies, formats
 
     data = {
         "model": [],

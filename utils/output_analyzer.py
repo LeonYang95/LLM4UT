@@ -1,12 +1,11 @@
 import os
-import os
 import pickle
 import re
 
 import javalang
 import javalang.tree
 
-from data.configuration import d4j_proj_base
+from configuration import d4j_proj_base
 from utils.d4j_utils import assemble_test_class, content_path, _get_src_location_by_bug_id
 from utils.java_parser import (
     parse_import_stmts_from_file_code,

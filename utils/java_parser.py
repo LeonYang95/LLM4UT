@@ -1,10 +1,9 @@
 import sys
 
 sys.path.extend([".", ".."])
-import json
 import pickle
 from tree_sitter import Parser
-from data.configuration import JAVA_LANGUAGE
+from configuration import JAVA_LANGUAGE
 
 
 def has_branch(tmp_focal_method):

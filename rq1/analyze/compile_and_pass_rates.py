@@ -6,7 +6,7 @@ import json
 import re
 import pandas
 import pickle
-from data.configuration import output_base_dir, code_base
+from configuration import output_base_dir, code_base
 from collections import Counter
 
 from datetime import datetime
@@ -110,7 +110,7 @@ def report_execution_rates(in_file):
 
 
 if __name__ == '__main__':
-    from data.configuration import target_models, projects, ablations, strategies, formats
+    from configuration import target_models, projects, ablations, strategies, formats
 
     current_datetime = datetime.now()
     # time_str = current_datetime.strftime("%Y-%m-%d_%H-%M-%S")

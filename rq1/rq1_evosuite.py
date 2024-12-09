@@ -7,8 +7,8 @@ sys.path.extend([".", ".."])
 
 from assistant_methods import run_evosuite, filter_data_according_to_project
 from utils.d4j_utils import load_assistant_data
-from data import configuration
-from data.configuration import output_base_dir, code_base, d4j_proj_base
+import configuration
+from configuration import output_base_dir, code_base, d4j_proj_base
 
 target_models = configuration.target_models
 formats = configuration.formats

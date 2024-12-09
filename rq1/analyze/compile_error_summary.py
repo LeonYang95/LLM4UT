@@ -5,9 +5,8 @@ sys.path.extend([".", ".."])
 import json
 import re
 import pandas
-from data.configuration import output_base_dir, code_base
+from configuration import output_base_dir, code_base
 from collections import Counter
-import numpy as np
 from datetime import datetime
 
 execution_error_keys = {
@@ -157,7 +156,7 @@ def report_execution_rates(in_file):
 
 
 if __name__ == "__main__":
-    from data.configuration import (
+    from configuration import (
         target_models,
         projects,
         ablations,

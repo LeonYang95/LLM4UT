@@ -1,6 +1,3 @@
-from tree_sitter import Parser
-
-from data.configuration import JAVA_LANGUAGE
 from utils.d4j_utils import *
 from utils.java_parser import (
     parse_import_nodes_from_file_code,

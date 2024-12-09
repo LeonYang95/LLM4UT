@@ -2,7 +2,7 @@ import sys
 sys.path.extend(['.', '..'])
 import subprocess
 import time
-from data import configuration
+import configuration
 import os
 
 projects = configuration.projects

@@ -6,7 +6,7 @@ import os
 import json
 import re
 import pickle
-from data.configuration import code_base, output_base_dir, target_models, projects
+from configuration import output_base_dir, target_models, projects
 
 
 def filter_affect_records_by_unresolved_symbol_type(record_file, target_type):
